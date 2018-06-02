@@ -20,3 +20,11 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 1 | [Swiss Roll](https://steemit.com/health/@masudurrahman/swiss-roll) | `[C C-I C-GT S O]` | Recipe |
 | 2 | [Yogurt fruit salad](https://steemit.com/food/@masudurrahman/yogurt-fruit-salad) | `[C C-I C-GT S O]` | Recipe |
 | 3 | [Chinese Sizzling](https://steemit.com/food/@masudurrahman/chinese-sizzling) | `[C C-I C-GT C-RM S O]` | Recipe |
+
+### [@mili2018](https://steemit.com/@mili2018) (33)
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic |
+| -: | - | - | - |
+| 1 | [Zidane: "I made the decision not to continue next year at Real Madrid"](https://steemit.com/sports/@mili2018/zidane-i-made-the-decision-not-to-continue-next-year-at-real-madrid) | `[C C-I C-GT C-RM S O]` | Sports |
+| 2 | [Belgium's beauty of nature: #TQ by night.](https://steemit.com/photography/@mili2018/belgium-s-beauty-of-nature-tq-by-night) | `[C C-I P S O]` | Photography |
+| 3 | [Griezmann confirms that he will decide his future before the World Cup](https://steemit.com/sports/@mili2018/griezmann-confirms-that-he-will-decide-his-future-before-the-world-cup) | `[C C-I C-GT S O]` | Sports |
