@@ -21,7 +21,7 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 2 | [Yogurt fruit salad](https://steemit.com/food/@masudurrahman/yogurt-fruit-salad) | `[C C-I C-GT S O]` | Recipe | 05-18 |
 | 3 | [Chinese Sizzling](https://steemit.com/food/@masudurrahman/chinese-sizzling) | `[C C-I C-GT C-RM S O]` | Recipe | 06-18 |
 
-### [@mili2018](https://steemit.com/@mili2018) (33)
+### [@mili2018](https://steemit.com/@mili2018) (34)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
 | -: | - | - | - | - |
@@ -29,3 +29,4 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 2 | [Belgium's beauty of nature: #TQ by night.](https://steemit.com/photography/@mili2018/belgium-s-beauty-of-nature-tq-by-night) | `[C C-I P S O]` | Photography | 06-18 |
 | 3 | [Griezmann confirms that he will decide his future before the World Cup](https://steemit.com/sports/@mili2018/griezmann-confirms-that-he-will-decide-his-future-before-the-world-cup) | `[C C-I C-GT S O]` | Sports | 06-18 |
 | 4 | [Partidos amistosos de la Premier League de verano 2018](https://steemit.com/sports/@mili2018/partidos-amistosos-de-la-premier-league-de-verano-2018) | `[C C-I C-GT C-RM S O]` | Sports | 06-18 |
+| 5 | ['A tragedy for Real Madrid'](https://steemit.com/sports/@mili2018/a-tragedy-for-real-madrid) | `[C C-I C-GT S O]` | Sports | 06-18 |
