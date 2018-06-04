@@ -30,3 +30,4 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 3 | [Griezmann confirms that he will decide his future before the World Cup](https://steemit.com/sports/@mili2018/griezmann-confirms-that-he-will-decide-his-future-before-the-world-cup) | `[C C-I C-GT S O]` | Sports | 06-18 |
 | 4 | [Partidos amistosos de la Premier League de verano 2018](https://steemit.com/sports/@mili2018/partidos-amistosos-de-la-premier-league-de-verano-2018) | `[C C-I C-GT C-RM S O]` | Sports | 06-18 |
 | 5 | ['A tragedy for Real Madrid'](https://steemit.com/sports/@mili2018/a-tragedy-for-real-madrid) | `[C C-I C-GT S O]` | Sports | 06-18 |
+| 6 | ['Welcome, mister, to the madhouse of the best sports club in history'](https://steemit.com/sports/@mili2018/welcome-mister-to-the-madhouse-of-the-best-sports-club-in-history) | `[C C-I C-GT S O]` | Sports | 06-18 |
