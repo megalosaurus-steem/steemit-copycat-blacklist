@@ -20,6 +20,7 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 1 | [Swiss Roll](https://steemit.com/health/@masudurrahman/swiss-roll) | `[C C-I C-GT S O]` | Recipe | 05-18 |
 | 2 | [Yogurt fruit salad](https://steemit.com/food/@masudurrahman/yogurt-fruit-salad) | `[C C-I C-GT S O]` | Recipe | 05-18 |
 | 3 | [Chinese Sizzling](https://steemit.com/food/@masudurrahman/chinese-sizzling) | `[C C-I C-GT C-RM S O]` | Recipe | 06-18 |
+| 4 | [Creamy Chicken Pasta](https://steemit.com/life/@masudurrahman/creamy-chicken-pasta) | `[C C-I C-GT C-RM S O]` | Recipe | 06-18 |
 
 ### [@mili2018](https://steemit.com/@mili2018) (34)
 
@@ -31,3 +32,4 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 4 | [Partidos amistosos de la Premier League de verano 2018](https://steemit.com/sports/@mili2018/partidos-amistosos-de-la-premier-league-de-verano-2018) | `[C C-I C-GT C-RM S O]` | Sports | 06-18 |
 | 5 | ['A tragedy for Real Madrid'](https://steemit.com/sports/@mili2018/a-tragedy-for-real-madrid) | `[C C-I C-GT S O]` | Sports | 06-18 |
 | 6 | ['Welcome, mister, to the madhouse of the best sports club in history'](https://steemit.com/sports/@mili2018/welcome-mister-to-the-madhouse-of-the-best-sports-club-in-history) | `[C C-I C-GT S O]` | Sports | 06-18 |
+| 7 | [10 possible substitutes for Zidane in Real Madrid](https://steemit.com/sports/@mili2018/10-possible-substitutes-for-zidane-in-real-madrid) | `[C C-I C-GT C-C S O]` | Sports | 06-18 |
