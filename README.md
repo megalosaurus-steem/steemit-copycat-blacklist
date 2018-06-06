@@ -33,3 +33,11 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 5 | ['A tragedy for Real Madrid'](https://steemit.com/sports/@mili2018/a-tragedy-for-real-madrid) | `[C C-I C-GT S O]` | Sports | 06-18 |
 | 6 | ['Welcome, mister, to the madhouse of the best sports club in history'](https://steemit.com/sports/@mili2018/welcome-mister-to-the-madhouse-of-the-best-sports-club-in-history) | `[C C-I C-GT S O]` | Sports | 06-18 |
 | 7 | [10 possible substitutes for Zidane in Real Madrid](https://steemit.com/sports/@mili2018/10-possible-substitutes-for-zidane-in-real-madrid) | `[C C-I C-GT C-C S O]` | Sports | 06-18 |
+
+### [@pritidkurani](https://steemit.com/@pritidkurani) (32)
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Monsoon - 2 Dark forms of Nature..](https://steemit.com/photography/@pritidkurani/monsoon-2-dark-forms-of-nature) | `[C C-I P S O]` | Photography | 06-18 |
+| 2 | [Wednesday - Architectural Photography](https://steemit.com/contest/@pritidkurani/43a4vk-wednesday-architectural-photography) | `[C C-I P S O]` | Photography | 06-18 |
+| 3 | [Wednesday - Old Memories of Local Travel](https://steemit.com/contest/@pritidkurani/wednesday-old-memories-of-local-travel) | `[C C-I P S O]` | Photography | 06-18 |
