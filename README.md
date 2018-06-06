@@ -41,3 +41,12 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 1 | [Monsoon - 2 Dark forms of Nature..](https://steemit.com/photography/@pritidkurani/monsoon-2-dark-forms-of-nature) | `[C C-I P S O]` | Photography | 06-18 |
 | 2 | [Wednesday - Architectural Photography](https://steemit.com/contest/@pritidkurani/43a4vk-wednesday-architectural-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 3 | [Wednesday - Old Memories of Local Travel](https://steemit.com/contest/@pritidkurani/wednesday-old-memories-of-local-travel) | `[C C-I P S O]` | Photography | 06-18 |
+
+### [@rayed](https://steemit.com/@rayed) (25)
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Goodnight Everyone](https://steemit.com/life/@rayed/goodnight-everyone) | `[C C-I P S O]` | Art | 06-18 |
+| 2 | [Best motivation word spoken!](https://steemit.com/life/@rayed/best-motivation-word-spoken) | `[C C-I P S O]` | Art | 06-18 |
+| 3 | [Qurrex - first hybrid cryptocurrency exchange](https://steemit.com/crytocurrency/@rayed/qurrex-first-hybrid-cryptocurrency-exchange) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
+| 4 | [MoneyToken — A blockchain-based financial ecosystem](https://steemit.com/crytocurrency/@rayed/moneytoken-a-blockchain-based-financial-ecosystem) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
