@@ -13,6 +13,14 @@ This GitHub repository is used to maintain a central public blacklist of identif
 * [Megalosaurus Steemit original content rules violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations)
 
 ## The blacklist
+### [@darpankurani](https://steemit.com/@darpankurani) (25)
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Wednesday - vehicle photography](https://steemit.com/contest/@darpankurani/6x95n6-wednesday-vehicle-photography) | `[C C-I P S O]` | Photography | 06-18 |
+| 2 | [Thursday - macrophotography](https://steemit.com/contest/@darpankurani/thursday-macrophotography) | `[C C-I P S O]` | Photography | 06-18 |
+| 3 | [Thursday - colourfulphotography](https://steemit.com/contest/@darpankurani/thursday-colourfulphotography) | `[C C-I P S O]` | Photography | 06-18 |
+
 ### [@masudurrahman](https://steemit.com/@masudurrahman) (27)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
@@ -41,6 +49,8 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 1 | [Monsoon - 2 Dark forms of Nature..](https://steemit.com/photography/@pritidkurani/monsoon-2-dark-forms-of-nature) | `[C C-I P S O]` | Photography | 06-18 |
 | 2 | [Wednesday - Architectural Photography](https://steemit.com/contest/@pritidkurani/43a4vk-wednesday-architectural-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 3 | [Wednesday - Old Memories of Local Travel](https://steemit.com/contest/@pritidkurani/wednesday-old-memories-of-local-travel) | `[C C-I P S O]` | Photography | 06-18 |
+| 4 | [Thursday - Macro Photography](https://steemit.com/contest/@pritidkurani/thursday-macro-photography) | `[C C-I P S O]` | Photography | 06-18 |
+| 5 | [Thursday - colourful Photography](https://steemit.com/contest/@pritidkurani/thursday-colourful-photography) | `[C C-I P S O]` | Photography | 06-18 |
 
 ### [@rayed](https://steemit.com/@rayed) (25)
 
