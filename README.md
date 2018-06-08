@@ -20,6 +20,8 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 1 | [Wednesday - vehicle photography](https://steemit.com/contest/@darpankurani/6x95n6-wednesday-vehicle-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 2 | [Thursday - macrophotography](https://steemit.com/contest/@darpankurani/thursday-macrophotography) | `[C C-I P S O]` | Photography | 06-18 |
 | 3 | [Thursday - colourfulphotography](https://steemit.com/contest/@darpankurani/thursday-colourfulphotography) | `[C C-I P S O]` | Photography | 06-18 |
+| 4 | [Friday - street photography](https://steemit.com/contest/@darpankurani/3gwhnx-friday-street-photography) | `[C C-I P S O]` | Photography | 06-18 |
+| 5 | [Friday - portrait photography](https://steemit.com/contest/@darpankurani/5qhjrw-friday-portrait-photography) | `[C C-I P S O]` | Photography | 06-18 |
 
 ### [@masudurrahman](https://steemit.com/@masudurrahman) (27)
 
@@ -51,8 +53,10 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 3 | [Wednesday - Old Memories of Local Travel](https://steemit.com/contest/@pritidkurani/wednesday-old-memories-of-local-travel) | `[C C-I P S O]` | Photography | 06-18 |
 | 4 | [Thursday - Macro Photography](https://steemit.com/contest/@pritidkurani/thursday-macro-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 5 | [Thursday - colourful Photography](https://steemit.com/contest/@pritidkurani/thursday-colourful-photography) | `[C C-I P S O]` | Photography | 06-18 |
+| 6 | [Friday - Street Photography](https://steemit.com/contest/@pritidkurani/4zpruv-friday-street-photography) | `[C C-I P S O]` | Photography | 06-18 |
+| 7 | [Friday - Portrait Photography](https://steemit.com/contest/@pritidkurani/4ynfv7-friday-portrait-photography) | `[C C-I P S O]` | Photography | 06-18 |
 
-### [@rayed](https://steemit.com/@rayed) (25)
+### [@rayed](https://steemit.com/@rayed) (27)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
 | -: | - | - | - | - |
@@ -60,3 +64,4 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 2 | [Best motivation word spoken!](https://steemit.com/life/@rayed/best-motivation-word-spoken) | `[C C-I P S O]` | Art | 06-18 |
 | 3 | [Qurrex - first hybrid cryptocurrency exchange](https://steemit.com/crytocurrency/@rayed/qurrex-first-hybrid-cryptocurrency-exchange) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 | 4 | [MoneyToken — A blockchain-based financial ecosystem](https://steemit.com/crytocurrency/@rayed/moneytoken-a-blockchain-based-financial-ecosystem) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
+| 5 | [COUNTINGHOUSE](https://steemit.com/crytocurrency/@rayed/countinghouse) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
