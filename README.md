@@ -23,6 +23,14 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 4 | [Friday - street photography](https://steemit.com/contest/@darpankurani/3gwhnx-friday-street-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 5 | [Friday - portrait photography](https://steemit.com/contest/@darpankurani/5qhjrw-friday-portrait-photography) | `[C C-I P S O]` | Photography | 06-18 |
 
+### [@inzouikroft](https://steemit.com/@inzouikroft) (35)
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/3jqjzs-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
+| 2 | [FOOTBAL](https://steemit.com/steem/@inzouikroft/6yaeji-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
+| 3 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/5n2jlg-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
+
 ### [@masudurrahman](https://steemit.com/@masudurrahman) (27)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
