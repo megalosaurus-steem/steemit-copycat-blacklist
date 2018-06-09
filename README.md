@@ -65,3 +65,11 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 3 | [Qurrex - first hybrid cryptocurrency exchange](https://steemit.com/crytocurrency/@rayed/qurrex-first-hybrid-cryptocurrency-exchange) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 | 4 | [MoneyToken — A blockchain-based financial ecosystem](https://steemit.com/crytocurrency/@rayed/moneytoken-a-blockchain-based-financial-ecosystem) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 | 5 | [COUNTINGHOUSE](https://steemit.com/crytocurrency/@rayed/countinghouse) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
+
+### [@rupas](https://steemit.com/@rupas) (27)
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Expectation & Reality 15](https://steemit.com/reality/@rupas/expectation-and-reality-15) | `[C C-I S O]` | Meme | 06-18 |
+| 2 | [Expectation & Reality 16](https://steemit.com/reality/@rupas/expectation-and-reality-16) | `[C C-I S O]` | Meme | 06-18 |
+| 3 | [Expectation & Reality 17](https://steemit.com/expectation/@rupas/expectation-and-reality-17) | `[C C-I S O]` | Meme | 06-18 |
