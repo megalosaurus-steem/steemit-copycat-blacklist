@@ -16,7 +16,8 @@ This GitHub repository is used to maintain a central public blacklist of identif
 ***Notes:***
 * `*` marks posts which have been edited by the author to comply with Steemit original content rules after I have commented them.
 
-### [@darpankurani](https://steemit.com/@darpankurani) (25)
+### [@darpankurani](https://steemit.com/@darpankurani)
+Reputation: **25**
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
 | -: | - | - | - | - |
@@ -26,7 +27,8 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 4 | [Friday - street photography](https://steemit.com/contest/@darpankurani/3gwhnx-friday-street-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 5 | [Friday - portrait photography](https://steemit.com/contest/@darpankurani/5qhjrw-friday-portrait-photography) | `[C C-I P S O]` | Photography | 06-18 |
 
-### [@inzouikroft](https://steemit.com/@inzouikroft) (35)
+### [@inzouikroft](https://steemit.com/@inzouikroft)
+Reputation: **35**
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
 | -: | - | - | - | - |
@@ -34,7 +36,8 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 2 | [FOOTBAL](https://steemit.com/steem/@inzouikroft/6yaeji-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
 | 3 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/5n2jlg-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
 
-### [@masudurrahman](https://steemit.com/@masudurrahman) (27)
+### [@masudurrahman](https://steemit.com/@masudurrahman)
+Reputation: **27**
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
 | -: | - | - | - | - |
@@ -43,7 +46,8 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 3 | [Chinese Sizzling](https://steemit.com/food/@masudurrahman/chinese-sizzling) | `[C C-I C-GT C-RM S O]` | Recipe | 06-18 |
 | 4 | [Creamy Chicken Pasta](https://steemit.com/life/@masudurrahman/creamy-chicken-pasta) | `[C C-I C-GT C-RM S O]` | Recipe | 06-18 |
 
-### [@mili2018](https://steemit.com/@mili2018) (34)
+### [@mili2018](https://steemit.com/@mili2018)
+Reputation: **34**
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
 | -: | - | - | - | - |
@@ -55,7 +59,8 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 6 | ['Welcome, mister, to the madhouse of the best sports club in history'](https://steemit.com/sports/@mili2018/welcome-mister-to-the-madhouse-of-the-best-sports-club-in-history) | `[C C-I C-GT S O]` | Sports | 06-18 |
 | 7 | [10 possible substitutes for Zidane in Real Madrid](https://steemit.com/sports/@mili2018/10-possible-substitutes-for-zidane-in-real-madrid) | `[C C-I C-GT C-C S O]` | Sports | 06-18 |
 
-### [@pritidkurani](https://steemit.com/@pritidkurani) (32)
+### [@pritidkurani](https://steemit.com/@pritidkurani)
+Reputation: **32**
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
 | -: | - | - | - | - |
@@ -69,7 +74,8 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 8 | [Khaman Dhokla - Steemed pan cake Gujarati Way](https://steemit.com/contest/@pritidkurani/khaman-dhokla-steemed-pan-cake-gujarati-way) | `[C C-I P S O]` | Photography | 06-18 |
 | 9 | [Lunch time](https://steemit.com/contest/@pritidkurani/lunch-time) | `[C C-I P S O]` | Photography | 06-18 |
 
-### [@raselcom](https://steemit.com/@raselcom) (33)
+### [@raselcom](https://steemit.com/@raselcom)
+Reputation: **33**
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
 | -: | - | - | - | - |
@@ -78,7 +84,8 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 3 | [HOW TO MAKE SYMROLS WTTH KEYBOARD](https://steemit.com/busy/@inzouikroft/5n2jlg-footbal) | `[C C-I S O]` | Tech-Tips | 06-18 |
 | 4 | [GINGER, CARROT, TURMERIC AND GRAPEFRUIT JUICE](https://steemit.com/juice/@raselcom/ginger-carrot-turmeric-and-grapefruit-juice) | `[C C-I S O]` | Recipe | 06-18 |
 
-### [@rayed](https://steemit.com/@rayed) (27)
+### [@rayed](https://steemit.com/@rayed)
+Reputation: **27**
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
 | -: | - | - | - | - |
@@ -88,7 +95,8 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 4 | [MoneyToken — A blockchain-based financial ecosystem](https://steemit.com/crytocurrency/@rayed/moneytoken-a-blockchain-based-financial-ecosystem) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 | 5 | [COUNTINGHOUSE](https://steemit.com/crytocurrency/@rayed/countinghouse) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 
-### [@rupas](https://steemit.com/@rupas) (27)
+### [@rupas](https://steemit.com/@rupas)
+Reputation: **27**
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
 | -: | - | - | - | - |
