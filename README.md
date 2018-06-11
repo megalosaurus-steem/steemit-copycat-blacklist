@@ -13,6 +13,9 @@ This GitHub repository is used to maintain a central public blacklist of identif
 * [Megalosaurus Steemit original content rules violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations)
 
 ## The blacklist
+***Notes:***
+* `*` marks posts which have been edited by the author to comply with Steemit original content rules after I have commented them.
+
 ### [@darpankurani](https://steemit.com/@darpankurani) (25)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
@@ -63,13 +66,24 @@ This GitHub repository is used to maintain a central public blacklist of identif
 | 5 | [Thursday - colourful Photography](https://steemit.com/contest/@pritidkurani/thursday-colourful-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 6 | [Friday - Street Photography](https://steemit.com/contest/@pritidkurani/4zpruv-friday-street-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 7 | [Friday - Portrait Photography](https://steemit.com/contest/@pritidkurani/4ynfv7-friday-portrait-photography) | `[C C-I P S O]` | Photography | 06-18 |
+| 8 | [Khaman Dhokla - Steemed pan cake Gujarati Way](https://steemit.com/contest/@pritidkurani/khaman-dhokla-steemed-pan-cake-gujarati-way) | `[C C-I P S O]` | Photography | 06-18 |
+| 9 | [Lunch time](https://steemit.com/contest/@pritidkurani/lunch-time) | `[C C-I P S O]` | Photography | 06-18 |
+
+### [@raselcom](https://steemit.com/@raselcom) (33)
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [NEW HILARIOUSLY SUPERHERO – MARVEL & DC FUNNY SUPERHERO COMICS 2018](https://steemit.com/busy/@inzouikroft/3jqjzs-footbal) | `[C C-I S O]` | Images: Comics | 06-18 |
+| 2 | [Amid tensions, all G-7 members sign statement](https://steemit.com/steem/@inzouikroft/6yaeji-footbal) | `[C C-I S O]` | News | 06-18 |
+| 3 | [HOW TO MAKE SYMROLS WTTH KEYBOARD](https://steemit.com/busy/@inzouikroft/5n2jlg-footbal) | `[C C-I S O]` | Tech-Tips | 06-18 |
+| 4 | [GINGER, CARROT, TURMERIC AND GRAPEFRUIT JUICE](https://steemit.com/juice/@raselcom/ginger-carrot-turmeric-and-grapefruit-juice) | `[C C-I S O]` | Recipe | 06-18 |
 
 ### [@rayed](https://steemit.com/@rayed) (27)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Goodnight Everyone](https://steemit.com/life/@rayed/goodnight-everyone) | `[C C-I P S O]` | Art | 06-18 |
-| 2 | [Best motivation word spoken!](https://steemit.com/life/@rayed/best-motivation-word-spoken) | `[C C-I P S O]` | Art | 06-18 |
+| 2 | `*` [Best motivation word spoken!](https://steemit.com/life/@rayed/best-motivation-word-spoken) | `[C C-I P S O]` | Art | 06-18 |
 | 3 | [Qurrex - first hybrid cryptocurrency exchange](https://steemit.com/crytocurrency/@rayed/qurrex-first-hybrid-cryptocurrency-exchange) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 | 4 | [MoneyToken — A blockchain-based financial ecosystem](https://steemit.com/crytocurrency/@rayed/moneytoken-a-blockchain-based-financial-ecosystem) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 | 5 | [COUNTINGHOUSE](https://steemit.com/crytocurrency/@rayed/countinghouse) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
