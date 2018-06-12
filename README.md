@@ -58,6 +58,7 @@ Reputation: **34**
 | 5 | ['A tragedy for Real Madrid'](https://steemit.com/sports/@mili2018/a-tragedy-for-real-madrid) | `[C C-I C-GT S O]` | Sports | 06-18 |
 | 6 | ['Welcome, mister, to the madhouse of the best sports club in history'](https://steemit.com/sports/@mili2018/welcome-mister-to-the-madhouse-of-the-best-sports-club-in-history) | `[C C-I C-GT S O]` | Sports | 06-18 |
 | 7 | [10 possible substitutes for Zidane in Real Madrid](https://steemit.com/sports/@mili2018/10-possible-substitutes-for-zidane-in-real-madrid) | `[C C-I C-GT C-C S O]` | Sports | 06-18 |
+| 8 | [OFICIAL: Julen Lopetegui nuevo entrenador del Real Madrid C.F.](https://steemit.com/sports/@mili2018/oficial-julen-lopetegui-nuevo-entrenador-del-real-madrid-c-f) | `[C C-I C-C S O]` | Sports | 06-18 |
 
 ### [@pritidkurani](https://steemit.com/@pritidkurani)
 Reputation: **32**
@@ -83,6 +84,7 @@ Reputation: **33**
 | 2 | [Amid tensions, all G-7 members sign statement](https://steemit.com/steem/@inzouikroft/6yaeji-footbal) | `[C C-I S O]` | News | 06-18 |
 | 3 | [HOW TO MAKE SYMROLS WTTH KEYBOARD](https://steemit.com/busy/@inzouikroft/5n2jlg-footbal) | `[C C-I S O]` | Tech-Tips | 06-18 |
 | 4 | [GINGER, CARROT, TURMERIC AND GRAPEFRUIT JUICE](https://steemit.com/juice/@raselcom/ginger-carrot-turmeric-and-grapefruit-juice) | `[C C-I S O]` | Recipe | 06-18 |
+| 5 | [God I"m getting tired!How long Til we reach the fallopian tubes?](https://steemit.com/meme/@raselcom/god-i-m-getting-tired-how-long-til-we-reach-the-fallopian-tubes) | `[C C-I S O]` | Images: Humor | 06-18 |
 
 ### [@rayed](https://steemit.com/@rayed)
 Reputation: **27**
