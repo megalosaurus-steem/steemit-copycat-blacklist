@@ -27,6 +27,15 @@ Reputation: **25**
 | 4 | [Friday - street photography](https://steemit.com/contest/@darpankurani/3gwhnx-friday-street-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 5 | [Friday - portrait photography](https://steemit.com/contest/@darpankurani/5qhjrw-friday-portrait-photography) | `[C C-I P S O]` | Photography | 06-18 |
 
+### [@googlenews](https://steemit.com/@googlenews)
+Reputation: **25**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Photography](https://steemit.com/photography/@googlenews/6dfdgc-photography) | `[C C-I P O]` | Photography | 05-18 |
+| 2 | [Photography](https://steemit.com/photography/@googlenews/6mhube-photography) | `[C C-I P O]` | Photography | 06-18 |
+| 3 | [Photography](https://steemit.com/photography/@googlenews/3dey9z-photography) | `[C C-I P O]` | Photography | 06-18 |
+
 ### [@inzouikroft](https://steemit.com/@inzouikroft)
 Reputation: **35**
 
