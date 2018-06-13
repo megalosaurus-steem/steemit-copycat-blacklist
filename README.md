@@ -19,7 +19,7 @@ This GitHub repository is used to maintain a central public blacklist of identif
 ### [@darpankurani](https://steemit.com/@darpankurani)
 Reputation: **25**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Wednesday - vehicle photography](https://steemit.com/contest/@darpankurani/6x95n6-wednesday-vehicle-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 2 | [Thursday - macrophotography](https://steemit.com/contest/@darpankurani/thursday-macrophotography) | `[C C-I P S O]` | Photography | 06-18 |
@@ -30,7 +30,7 @@ Reputation: **25**
 ### [@inzouikroft](https://steemit.com/@inzouikroft)
 Reputation: **35**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/3jqjzs-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
 | 2 | [FOOTBAL](https://steemit.com/steem/@inzouikroft/6yaeji-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
@@ -39,7 +39,7 @@ Reputation: **35**
 ### [@masudurrahman](https://steemit.com/@masudurrahman)
 Reputation: **27**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Swiss Roll](https://steemit.com/health/@masudurrahman/swiss-roll) | `[C C-I C-GT S O]` | Recipe | 05-18 |
 | 2 | [Yogurt fruit salad](https://steemit.com/food/@masudurrahman/yogurt-fruit-salad) | `[C C-I C-GT S O]` | Recipe | 05-18 |
@@ -49,7 +49,7 @@ Reputation: **27**
 ### [@mili2018](https://steemit.com/@mili2018)
 Reputation: **34**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Zidane: "I made the decision not to continue next year at Real Madrid"](https://steemit.com/sports/@mili2018/zidane-i-made-the-decision-not-to-continue-next-year-at-real-madrid) | `[C C-I C-GT C-RM S O]` | Sports | 05-18 |
 | 2 | [Belgium's beauty of nature: #TQ by night.](https://steemit.com/photography/@mili2018/belgium-s-beauty-of-nature-tq-by-night) | `[C C-I P S O]` | Photography | 06-18 |
@@ -63,7 +63,7 @@ Reputation: **34**
 ### [@pritidkurani](https://steemit.com/@pritidkurani)
 Reputation: **32**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Monsoon - 2 Dark forms of Nature..](https://steemit.com/photography/@pritidkurani/monsoon-2-dark-forms-of-nature) | `[C C-I P S O]` | Photography | 06-18 |
 | 2 | [Wednesday - Architectural Photography](https://steemit.com/contest/@pritidkurani/43a4vk-wednesday-architectural-photography) | `[C C-I P S O]` | Photography | 06-18 |
@@ -78,7 +78,7 @@ Reputation: **32**
 ### [@raselcom](https://steemit.com/@raselcom)
 Reputation: **33**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [NEW HILARIOUSLY SUPERHERO – MARVEL & DC FUNNY SUPERHERO COMICS 2018](https://steemit.com/busy/@inzouikroft/3jqjzs-footbal) | `[C C-I S O]` | Images: Comics | 06-18 |
 | 2 | [Amid tensions, all G-7 members sign statement](https://steemit.com/steem/@inzouikroft/6yaeji-footbal) | `[C C-I S O]` | News | 06-18 |
@@ -89,7 +89,7 @@ Reputation: **33**
 ### [@rayed](https://steemit.com/@rayed)
 Reputation: **27**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Goodnight Everyone](https://steemit.com/life/@rayed/goodnight-everyone) | `[C C-I P S O]` | Art | 06-18 |
 | 2 | `*` [Best motivation word spoken!](https://steemit.com/life/@rayed/best-motivation-word-spoken) | `[C C-I P S O]` | Art | 06-18 |
@@ -100,7 +100,7 @@ Reputation: **27**
 ### [@rupas](https://steemit.com/@rupas)
 Reputation: **27**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Expectation & Reality 15](https://steemit.com/reality/@rupas/expectation-and-reality-15) | `[C C-I S O]` | Meme | 06-18 |
 | 2 | [Expectation & Reality 16](https://steemit.com/reality/@rupas/expectation-and-reality-16) | `[C C-I S O]` | Meme | 06-18 |
