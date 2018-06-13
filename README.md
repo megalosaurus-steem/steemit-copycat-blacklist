@@ -26,6 +26,7 @@ Reputation: **25**
 | 3 | [Thursday - colourfulphotography](https://steemit.com/contest/@darpankurani/thursday-colourfulphotography) | `[C C-I P S O]` | Photography | 06-18 |
 | 4 | [Friday - street photography](https://steemit.com/contest/@darpankurani/3gwhnx-friday-street-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 5 | [Friday - portrait photography](https://steemit.com/contest/@darpankurani/5qhjrw-friday-portrait-photography) | `[C C-I P S O]` | Photography | 06-18 |
+| 6 | [Wednesday - architectural photography](https://steemit.com/contest/@darpankurani/yedxk-wednesday-architectural-photography) | `[C C-I P S O]` | Photography | 06-18 |
 
 ### [@googlenews](https://steemit.com/@googlenews)
 Reputation: **25**
@@ -44,6 +45,8 @@ Reputation: **35**
 | 1 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/3jqjzs-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
 | 2 | [FOOTBAL](https://steemit.com/steem/@inzouikroft/6yaeji-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
 | 3 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/5n2jlg-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
+| 4 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/5akewv-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
+| 5 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/72lajf-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
 
 ### [@masudurrahman](https://steemit.com/@masudurrahman)
 Reputation: **27**
@@ -83,6 +86,7 @@ Reputation: **32**
 | 7 | [Friday - Portrait Photography](https://steemit.com/contest/@pritidkurani/4ynfv7-friday-portrait-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 8 | [Khaman Dhokla - Steemed pan cake Gujarati Way](https://steemit.com/contest/@pritidkurani/khaman-dhokla-steemed-pan-cake-gujarati-way) | `[C C-I P S O]` | Photography | 06-18 |
 | 9 | [Lunch time](https://steemit.com/contest/@pritidkurani/lunch-time) | `[C C-I P S O]` | Photography | 06-18 |
+| 10 | [Adalaj Vaav - Architectural Monument](https://steemit.com/contest/@pritidkurani/adalaj-vaav-architectural-monument) | `[C C-I P S O]` | Photography | 06-18 |
 
 ### [@raselcom](https://steemit.com/@raselcom)
 Reputation: **33**
