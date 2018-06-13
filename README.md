@@ -10,7 +10,7 @@ This GitHub repository is used to maintain a central public blacklist of identif
 ## Further information
 * [About my mission](https://steemit.com/steemitabuse/@megalosaurus/my-own-private-initiative-against-steemit-copycats)
 * [How I handle Steemit copycats](https://steemit.com/steemitabuse/@megalosaurus/how-i-handle-steemit-copycats)
-* [Megalosaurus Steemit original content rules violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations)
+* [Megalosaurus Steemit original content rules violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13)
 
 ## The blacklist
 ***Notes:***
