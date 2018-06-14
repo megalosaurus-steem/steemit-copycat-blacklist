@@ -27,6 +27,7 @@ Reputation: **25**
 | 4 | [Friday - street photography](https://steemit.com/contest/@darpankurani/3gwhnx-friday-street-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 5 | [Friday - portrait photography](https://steemit.com/contest/@darpankurani/5qhjrw-friday-portrait-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 6 | [Wednesday - architectural photography](https://steemit.com/contest/@darpankurani/yedxk-wednesday-architectural-photography) | `[C C-I P S O]` | Photography | 06-18 |
+| 7 | [Thursday - macro photography](https://steemit.com/contest/@darpankurani/thursday-macro-photography) | `[C C-I P S O]` | Photography | 06-18 |
 
 ### [@googlenews](https://steemit.com/@googlenews)
 Reputation: **25**
@@ -36,6 +37,7 @@ Reputation: **25**
 | 1 | [Photography](https://steemit.com/photography/@googlenews/6dfdgc-photography) | `[C C-I P O]` | Photography | 05-18 |
 | 2 | [Photography](https://steemit.com/photography/@googlenews/6mhube-photography) | `[C C-I P O]` | Photography | 06-18 |
 | 3 | [Photography](https://steemit.com/photography/@googlenews/3dey9z-photography) | `[C C-I P O]` | Photography | 06-18 |
+| 4 | [Photography](https://steemit.com/photography/@googlenews/juhep-photography) | `[C C-I P O]` | Photography | 06-18 |
 
 ### [@inzouikroft](https://steemit.com/@inzouikroft)
 Reputation: **35**
@@ -47,6 +49,7 @@ Reputation: **35**
 | 3 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/5n2jlg-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
 | 4 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/5akewv-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
 | 5 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/72lajf-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
+| 6 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/xqsf7-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
 
 ### [@masudurrahman](https://steemit.com/@masudurrahman)
 Reputation: **27**
@@ -87,6 +90,10 @@ Reputation: **32**
 | 8 | [Khaman Dhokla - Steemed pan cake Gujarati Way](https://steemit.com/contest/@pritidkurani/khaman-dhokla-steemed-pan-cake-gujarati-way) | `[C C-I P S O]` | Photography | 06-18 |
 | 9 | [Lunch time](https://steemit.com/contest/@pritidkurani/lunch-time) | `[C C-I P S O]` | Photography | 06-18 |
 | 10 | [Adalaj Vaav - Architectural Monument](https://steemit.com/contest/@pritidkurani/adalaj-vaav-architectural-monument) | `[C C-I P S O]` | Photography | 06-18 |
+| ...
+| = | **12 in total**
+
+*More than illicit posts. Other posts: [(11)](https://steemit.com/contest/@pritidkurani/frog-waiting-for-rain), [(12)](https://steemit.com/contest/@pritidkurani/tulip-a-colorful-gift-from-almighty-god)*
 
 ### [@raselcom](https://steemit.com/@raselcom)
 Reputation: **33**
@@ -97,7 +104,8 @@ Reputation: **33**
 | 2 | [Amid tensions, all G-7 members sign statement](https://steemit.com/steem/@inzouikroft/6yaeji-footbal) | `[C C-I S O]` | News | 06-18 |
 | 3 | [HOW TO MAKE SYMROLS WTTH KEYBOARD](https://steemit.com/busy/@inzouikroft/5n2jlg-footbal) | `[C C-I S O]` | Tech-Tips | 06-18 |
 | 4 | [GINGER, CARROT, TURMERIC AND GRAPEFRUIT JUICE](https://steemit.com/juice/@raselcom/ginger-carrot-turmeric-and-grapefruit-juice) | `[C C-I S O]` | Recipe | 06-18 |
-| 5 | [God I"m getting tired!How long Til we reach the fallopian tubes?](https://steemit.com/meme/@raselcom/god-i-m-getting-tired-how-long-til-we-reach-the-fallopian-tubes) | `[C C-I S O]` | Images: Humor | 06-18 |
+| 5 | [God I"m getting tired!How long Til we reach the fallopian tubes?](https://steemit.com/meme/@raselcom/god-i-m-getting-tired-how-long-til-we-reach-the-fallopian-tubes) | `[C C-I S O]` | Image: Humor | 06-18 |
+| 6 | [How to Stop Your Cuticle Skin from Peeling - Healthy Things](https://steemit.com/healthy/@raselcom/how-to-stop-your-cuticle-skin-from-peeling-healthy-things) | `[C C-I C-I-M C-C S O]` | Health-Tips | 06-18 |
 
 ### [@rayed](https://steemit.com/@rayed)
 Reputation: **27**
