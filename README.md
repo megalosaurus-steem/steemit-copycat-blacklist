@@ -16,6 +16,16 @@ This GitHub repository is used to maintain a central public blacklist of identif
 ***Notes:***
 * `*` marks posts which have been edited by the author to comply with Steemit original content rules after I have commented on them.
 
+### [@danvil.identity](https://steemit.com/@danvil.identity)
+Reputation: **34**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [The dog that changed my life two years ago. We had a relaxing day on the coast today.](https://steemit.com/dog/@danvil.identity/the-dog-that-changed-my-life-two-years-ago-we-had-a-relaxing-day-on-the-coast-today) | `[C C-I P S O]` | Photography | 06-18 |
+| 2 | [My the best friend, really. Sorry mom and dad. <3](https://steemit.com/love/@danvil.identity/my-the-best-friend-really-sorry-mom-and-dad-3) | `[C C-I S O]` | Image | 06-18 |
+| 3 | [How a Daredevil Raccoon Pulled Off a Terrifying 23-Story Climb](https://steemit.com/story/@danvil.identity/how-a-daredevil-raccoon-pulled-off-a-terrifying-23-story-climb) | `[C C-I S O]` | Image | 06-18 |
+| 4 | [Eid Mubarak guys! ❤](https://steemit.com/congratulations/@danvil.identity/eid-mubarak-guys) | `[C C-I S O]` | Image | 06-18 |
+
 ### [@darpankurani](https://steemit.com/@darpankurani)
 Reputation: **25**
 
@@ -28,6 +38,7 @@ Reputation: **25**
 | 5 | [Friday - portrait photography](https://steemit.com/contest/@darpankurani/5qhjrw-friday-portrait-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 6 | [Wednesday - architectural photography](https://steemit.com/contest/@darpankurani/yedxk-wednesday-architectural-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 7 | [Thursday - macro photography](https://steemit.com/contest/@darpankurani/thursday-macro-photography) | `[C C-I P S O]` | Photography | 06-18 |
+| 8 | [Friday - street photography](https://steemit.com/contest/@darpankurani/21i5je-friday-street-photography) | `[C C-I P S O]` | Photography | 06-18 |
 
 ### [@googlenews](https://steemit.com/@googlenews)
 Reputation: **25**
@@ -93,7 +104,7 @@ Reputation: **32**
 | ...
 | = | **12 in total**
 
-*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/contest/@pritidkurani/frog-waiting-for-rain), [(12)](https://steemit.com/contest/@pritidkurani/tulip-a-colorful-gift-from-almighty-god)*
+*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/contest/@pritidkurani/frog-waiting-for-rain), [(12)](https://steemit.com/contest/@pritidkurani/tulip-a-colorful-gift-from-almighty-god)*, [(13)](https://steemit.com/news/@pritidkurani/atmosphere-at-new-delhi)*, [(14)](https://steemit.com/travel/@pritidkurani/my-finland-tour)*
 
 ### [@raselcom](https://steemit.com/@raselcom)
 Reputation: **33**
