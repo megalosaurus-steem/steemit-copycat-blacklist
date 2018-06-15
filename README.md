@@ -14,7 +14,7 @@ This GitHub repository is used to maintain a central public blacklist of identif
 
 ## The blacklist
 ***Notes:***
-* `*` marks posts which have been edited by the author to comply with Steemit original content rules after I have commented them.
+* `*` marks posts which have been edited by the author to comply with Steemit original content rules after I have commented on them.
 
 ### [@darpankurani](https://steemit.com/@darpankurani)
 Reputation: **25**
@@ -93,7 +93,7 @@ Reputation: **32**
 | ...
 | = | **12 in total**
 
-*More than illicit posts. Other posts: [(11)](https://steemit.com/contest/@pritidkurani/frog-waiting-for-rain), [(12)](https://steemit.com/contest/@pritidkurani/tulip-a-colorful-gift-from-almighty-god)*
+*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/contest/@pritidkurani/frog-waiting-for-rain), [(12)](https://steemit.com/contest/@pritidkurani/tulip-a-colorful-gift-from-almighty-god)*
 
 ### [@raselcom](https://steemit.com/@raselcom)
 Reputation: **33**
