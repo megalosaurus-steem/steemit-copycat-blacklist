@@ -102,7 +102,7 @@ Reputation: **32**
 | 9 | [Lunch time](https://steemit.com/contest/@pritidkurani/lunch-time) | `[C C-I P S O]` | Photography | 06-18 |
 | 10 | [Adalaj Vaav - Architectural Monument](https://steemit.com/contest/@pritidkurani/adalaj-vaav-architectural-monument) | `[C C-I P S O]` | Photography | 06-18 |
 | ...
-| = | **12 in total**
+| = | **14 in total**
 
 *More than 10 illicit posts. Other posts: [(11)](https://steemit.com/contest/@pritidkurani/frog-waiting-for-rain), [(12)](https://steemit.com/contest/@pritidkurani/tulip-a-colorful-gift-from-almighty-god)*, [(13)](https://steemit.com/news/@pritidkurani/atmosphere-at-new-delhi)*, [(14)](https://steemit.com/travel/@pritidkurani/my-finland-tour)*
 
