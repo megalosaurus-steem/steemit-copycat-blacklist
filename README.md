@@ -105,7 +105,7 @@ Reputation: **32**
 | ...
 | = | **14 in total**
 
-*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/contest/@pritidkurani/frog-waiting-for-rain), [(12)](https://steemit.com/contest/@pritidkurani/tulip-a-colorful-gift-from-almighty-god)*, [(13)](https://steemit.com/news/@pritidkurani/atmosphere-at-new-delhi)*, [(14)](https://steemit.com/travel/@pritidkurani/my-finland-tour)*
+*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/contest/@pritidkurani/frog-waiting-for-rain), [(12)](https://steemit.com/contest/@pritidkurani/tulip-a-colorful-gift-from-almighty-god), [(13)](https://steemit.com/news/@pritidkurani/atmosphere-at-new-delhi), [(14)](https://steemit.com/travel/@pritidkurani/my-finland-tour)*
 
 ### [@raselcom](https://steemit.com/@raselcom)
 Reputation: **33**
