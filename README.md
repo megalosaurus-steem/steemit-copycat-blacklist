@@ -24,7 +24,8 @@ Reputation: **34**
 | 1 | [The dog that changed my life two years ago. We had a relaxing day on the coast today.](https://steemit.com/dog/@danvil.identity/the-dog-that-changed-my-life-two-years-ago-we-had-a-relaxing-day-on-the-coast-today) | `[C C-I P S O]` | Photography | 06-18 |
 | 2 | [My the best friend, really. Sorry mom and dad. <3](https://steemit.com/love/@danvil.identity/my-the-best-friend-really-sorry-mom-and-dad-3) | `[C C-I S O]` | Image | 06-18 |
 | 3 | [How a Daredevil Raccoon Pulled Off a Terrifying 23-Story Climb](https://steemit.com/story/@danvil.identity/how-a-daredevil-raccoon-pulled-off-a-terrifying-23-story-climb) | `[C C-I S O]` | Image | 06-18 |
-| 4 | [Eid Mubarak guys! ❤](https://steemit.com/congratulations/@danvil.identity/eid-mubarak-guys) | `[C C-I S O]` | Image | 06-18 |
+| 4 | [Eid Mubarak guys!](https://steemit.com/congratulations/@danvil.identity/eid-mubarak-guys) | `[C C-I S O]` | Image | 06-18 |
+| 5 | [Tactical dog helmets. The future is now.](https://steemit.com/story/@danvil.identity/tactical-dog-helmets-the-future-is-now) | `[C C-I S O]` | Image | 06-18 |
 
 ### [@darpankurani](https://steemit.com/@darpankurani)
 Reputation: **25**
@@ -117,6 +118,7 @@ Reputation: **33**
 | 4 | [GINGER, CARROT, TURMERIC AND GRAPEFRUIT JUICE](https://steemit.com/juice/@raselcom/ginger-carrot-turmeric-and-grapefruit-juice) | `[C C-I S O]` | Recipe | 06-18 |
 | 5 | [God I"m getting tired!How long Til we reach the fallopian tubes?](https://steemit.com/meme/@raselcom/god-i-m-getting-tired-how-long-til-we-reach-the-fallopian-tubes) | `[C C-I S O]` | Image: Humor | 06-18 |
 | 6 | [How to Stop Your Cuticle Skin from Peeling - Healthy Things](https://steemit.com/healthy/@raselcom/how-to-stop-your-cuticle-skin-from-peeling-healthy-things) | `[C C-I C-I-M C-C S O]` | Health-Tips | 06-18 |
+| 7 | [Why Has Nobody Told Me Anything About This Before? 19 Tricks That Make Life Easier For Any...](https://steemit.com/tricks/@raselcom/why-has-nobody-told-me-anything-about-this-before-19-tricks-that-make-life-easier-for-any-woman) | `[C C-I S O]` | Lifehack | 06-18 |
 
 ### [@rayed](https://steemit.com/@rayed)
 Reputation: **27**
