@@ -26,6 +26,8 @@ Reputation: **34**
 | 3 | [How a Daredevil Raccoon Pulled Off a Terrifying 23-Story Climb](https://steemit.com/story/@danvil.identity/how-a-daredevil-raccoon-pulled-off-a-terrifying-23-story-climb) | `[C C-I S O]` | Image | 06-18 |
 | 4 | [Eid Mubarak guys!](https://steemit.com/congratulations/@danvil.identity/eid-mubarak-guys) | `[C C-I S O]` | Image | 06-18 |
 | 5 | [Tactical dog helmets. The future is now.](https://steemit.com/story/@danvil.identity/tactical-dog-helmets-the-future-is-now) | `[C C-I S O]` | Image | 06-18 |
+| 6 | [my boyfriend managed to sneak our floofer through a 30 minute trail behind the stadium so she could...](https://steemit.com/love/@danvil.identity/my-boyfriend-managed-to-sneak-our-floofer-through-a-30-minute-trail-behind-the-stadium-so-she-could-be-at-my-graduation) | `[C C-I S O]` | Image | 06-18 |
+| 7 | [I was drunk in the French Quarter and a kind resident let me use their bathroom. I thought this cat was...](https://steemit.com/cute/@danvil.identity/i-was-drunk-in-the-french-quarter-and-a-kind-resident-let-me-use-their-bathroom-i-thought-this-cat-was-fake-until-it-turned-its) | `[C C-I S O]` | Image | 06-18 |
 
 ### [@darpankurani](https://steemit.com/@darpankurani)
 Reputation: **25**
@@ -119,6 +121,8 @@ Reputation: **33**
 | 5 | [God I"m getting tired!How long Til we reach the fallopian tubes?](https://steemit.com/meme/@raselcom/god-i-m-getting-tired-how-long-til-we-reach-the-fallopian-tubes) | `[C C-I S O]` | Image: Humor | 06-18 |
 | 6 | [How to Stop Your Cuticle Skin from Peeling - Healthy Things](https://steemit.com/healthy/@raselcom/how-to-stop-your-cuticle-skin-from-peeling-healthy-things) | `[C C-I C-I-M C-C S O]` | Health-Tips | 06-18 |
 | 7 | [Why Has Nobody Told Me Anything About This Before? 19 Tricks That Make Life Easier For Any...](https://steemit.com/tricks/@raselcom/why-has-nobody-told-me-anything-about-this-before-19-tricks-that-make-life-easier-for-any-woman) | `[C C-I S O]` | Lifehack | 06-18 |
+| 8 | [How To Grill Watermelon](https://steemit.com/busy/@raselcom/how-to-grill-watermelon) | `[C C-I S O]` | Recipe | 06-18 |
+| 9 | [Healthy Granola Bar Recipe](https://steemit.com/health/@raselcom/healthy-granola-bar-recipe) | `[C C-I S O]` | Recipe | 06-18 |
 
 ### [@rayed](https://steemit.com/@rayed)
 Reputation: **27**
