@@ -16,6 +16,15 @@ This GitHub repository is used to maintain a central public blacklist of identif
 ***Notes:***
 * `*` marks posts which have been edited by the author to comply with Steemit original content rules after I have commented on them.
 
+### [@ashir-zuhaib](https://steemit.com/@danvil.identity)
+Reputation: **29**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | `*` [Government of Pakistan has announced eid holidays.](https://steemit.com/eid/@ashir-zuhaib/government-of-pakistan-has-announced-eid-holidays-062cb34cd72b9) | `[C C-I S O]` | Image | 06-18 |
+| 2 | `*` [Eidi should be like this](https://steemit.com/eidi/@ashir-zuhaib/eidi-should-be-like-this-b075149b75374) | `[C C-I C-I-M S O]` | Image | 06-18 |
+| 3 | [Pakistan temporary PM invites UAE companies to invest in country.](https://steemit.com/pakistan/@ashir-zuhaib/pakistan-temporary-pm-invites-uae-companies-to-invest-in-country-e5a2ccfe1127d) | `[C C-RM S O]` | News-Snippet | 06-18 |
+
 ### [@danvil.identity](https://steemit.com/@danvil.identity)
 Reputation: **34**
 
