@@ -37,6 +37,7 @@ Reputation: **34**
 | 5 | [Tactical dog helmets. The future is now.](https://steemit.com/story/@danvil.identity/tactical-dog-helmets-the-future-is-now) | `[C C-I S O]` | Image | 06-18 |
 | 6 | [my boyfriend managed to sneak our floofer through a 30 minute trail behind the stadium so she could...](https://steemit.com/love/@danvil.identity/my-boyfriend-managed-to-sneak-our-floofer-through-a-30-minute-trail-behind-the-stadium-so-she-could-be-at-my-graduation) | `[C C-I S O]` | Image | 06-18 |
 | 7 | [I was drunk in the French Quarter and a kind resident let me use their bathroom. I thought this cat was...](https://steemit.com/cute/@danvil.identity/i-was-drunk-in-the-french-quarter-and-a-kind-resident-let-me-use-their-bathroom-i-thought-this-cat-was-fake-until-it-turned-its) | `[C C-I S O]` | Image | 06-18 |
+| 8 | [Support for neighbors (Croatia)](https://steemit.com/sport/@danvil.identity/support-for-neighbors-croatia) | `[C C-I S O]` | Image | 06-18 |
 
 ### [@darpankurani](https://steemit.com/@darpankurani)
 Reputation: **25**
@@ -152,3 +153,13 @@ Reputation: **27**
 | 1 | [Expectation & Reality 15](https://steemit.com/reality/@rupas/expectation-and-reality-15) | `[C C-I S O]` | Meme | 06-18 |
 | 2 | [Expectation & Reality 16](https://steemit.com/reality/@rupas/expectation-and-reality-16) | `[C C-I S O]` | Meme | 06-18 |
 | 3 | [Expectation & Reality 17](https://steemit.com/expectation/@rupas/expectation-and-reality-17) | `[C C-I S O]` | Meme | 06-18 |
+
+### [@saidul-islam](https://steemit.com/@saidul-islam)
+Reputation: **35**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Preparations before Eid](https://steemit.com/busy/@saidul-islam/preparations-before-eid) | `[C C-I C-GT S O]` | News-Report | 06-18 |
+| 2 | [The bumper crop also results in farmers' appalling](https://steemit.com/melip/@saidul-islam/4b6hkw-the-bumper-crop-also-results-in-farmers-appalling) | `[C C-I C-GT S O]` | News-Report | 06-18 |
+| 3 | [Seasonal fruits and vegetables to protect the health of children](https://steemit.com/melip/@saidul-islam/seasonal-fruits-and-vegetables-to-protect-the-health-of-children) | `[C C-I C-GT S O]` | News-Report | 06-18 |
+| 4 | [Different shrimp shrimp biriyani](https://steemit.com/melip/@saidul-islam/different-shrimp-shrimp-biriyani) | `[C C-I C-GT S O]` | Recipe | 06-18 |
