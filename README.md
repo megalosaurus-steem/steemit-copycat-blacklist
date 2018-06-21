@@ -38,6 +38,7 @@ Reputation: **34**
 | 6 | [my boyfriend managed to sneak our floofer through a 30 minute trail behind the stadium so she could...](https://steemit.com/love/@danvil.identity/my-boyfriend-managed-to-sneak-our-floofer-through-a-30-minute-trail-behind-the-stadium-so-she-could-be-at-my-graduation) | `[C C-I S O]` | Image | 06-18 |
 | 7 | [I was drunk in the French Quarter and a kind resident let me use their bathroom. I thought this cat was...](https://steemit.com/cute/@danvil.identity/i-was-drunk-in-the-french-quarter-and-a-kind-resident-let-me-use-their-bathroom-i-thought-this-cat-was-fake-until-it-turned-its) | `[C C-I S O]` | Image | 06-18 |
 | 8 | [Support for neighbors (Croatia)](https://steemit.com/sport/@danvil.identity/support-for-neighbors-croatia) | `[C C-I S O]` | Image | 06-18 |
+| 9 | [My work](https://steemit.com/art/@danvil.identity/my-work) | `[C C-I O]` | Blog-Post | 06-18 |
 
 ### [@darpankurani](https://steemit.com/@darpankurani)
 Reputation: **25**
@@ -84,6 +85,8 @@ Reputation: **27**
 | 2 | [Yogurt fruit salad](https://steemit.com/food/@masudurrahman/yogurt-fruit-salad) | `[C C-I C-GT S O]` | Recipe | 05-18 |
 | 3 | [Chinese Sizzling](https://steemit.com/food/@masudurrahman/chinese-sizzling) | `[C C-I C-GT C-RM S O]` | Recipe | 06-18 |
 | 4 | [Creamy Chicken Pasta](https://steemit.com/life/@masudurrahman/creamy-chicken-pasta) | `[C C-I C-GT C-RM S O]` | Recipe | 06-18 |
+| 5 | [Recipe: Biryani](https://steemit.com/food/@masudurrahman/recipe-biryani) | `[C C-GT S O]` | Recipe | 06-18 |
+| 6 | [Recipe: Biryani](https://steemit.com/health/@masudurrahman/2wvtng-recipe-biryani) | `[C C-I C-GT S O]` | Recipe | 06-18 |
 
 ### [@mili2018](https://steemit.com/@mili2018)
 Reputation: **34**
