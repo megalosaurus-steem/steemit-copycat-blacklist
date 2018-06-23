@@ -39,6 +39,7 @@ Reputation: **34**
 | 7 | [I was drunk in the French Quarter and a kind resident let me use their bathroom. I thought this cat was...](https://steemit.com/cute/@danvil.identity/i-was-drunk-in-the-french-quarter-and-a-kind-resident-let-me-use-their-bathroom-i-thought-this-cat-was-fake-until-it-turned-its) | `[C C-I S O]` | Image | 06-18 |
 | 8 | [Support for neighbors (Croatia)](https://steemit.com/sport/@danvil.identity/support-for-neighbors-croatia) | `[C C-I S O]` | Image | 06-18 |
 | 9 | [My work](https://steemit.com/art/@danvil.identity/my-work) | `[C C-I O]` | Blog-Post | 06-18 |
+| 10 | [Please, if you don't know my language, you can to use ''google translate''](https://steemit.com/art/@danvil.identity/please-if-you-don-t-know-my-language-you-can-to-use-google-translate) | `[C C-I O]` | Blog-Post | 06-18 |
 
 ### [@darpankurani](https://steemit.com/@darpankurani)
 Reputation: **25**
@@ -138,6 +139,7 @@ Reputation: **33**
 | 7 | [Why Has Nobody Told Me Anything About This Before? 19 Tricks That Make Life Easier For Any...](https://steemit.com/tricks/@raselcom/why-has-nobody-told-me-anything-about-this-before-19-tricks-that-make-life-easier-for-any-woman) | `[C C-I S O]` | Lifehack | 06-18 |
 | 8 | [How To Grill Watermelon](https://steemit.com/busy/@raselcom/how-to-grill-watermelon) | `[C C-I S O]` | Recipe | 06-18 |
 | 9 | [Healthy Granola Bar Recipe](https://steemit.com/health/@raselcom/healthy-granola-bar-recipe) | `[C C-I S O]` | Recipe | 06-18 |
+| 10 | [HOW TO MAKE PRIMITIVE ARROWS – THE BASICS](https://steemit.com/busy/@raselcom/how-to-make-primitive-arrows-the-basics) | `[C C-I S O]` | Tutorial | 06-18 |
 
 ### [@rayed](https://steemit.com/@rayed)
 Reputation: **27**
@@ -169,3 +171,4 @@ Reputation: **35**
 | 2 | [The bumper crop also results in farmers' appalling](https://steemit.com/melip/@saidul-islam/4b6hkw-the-bumper-crop-also-results-in-farmers-appalling) | `[C C-I C-GT S O]` | News-Report | 06-18 |
 | 3 | [Seasonal fruits and vegetables to protect the health of children](https://steemit.com/melip/@saidul-islam/seasonal-fruits-and-vegetables-to-protect-the-health-of-children) | `[C C-I C-GT S O]` | News-Report | 06-18 |
 | 4 | [Different shrimp shrimp biriyani](https://steemit.com/melip/@saidul-islam/different-shrimp-shrimp-biriyani) | `[C C-I C-GT S O]` | Recipe | 06-18 |
+| 5 | [When drinking water can be damaged](https://steemit.com/melip/@saidul-islam/when-drinking-water-can-be-damaged) | `[C C-I C-GT S O]` | News-Report | 06-18 |
