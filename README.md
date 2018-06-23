@@ -63,6 +63,8 @@ Reputation: **25**
 | 2 | [Photography](https://steemit.com/photography/@googlenews/6mhube-photography) | `[C C-I P O]` | Photography | 06-18 |
 | 3 | [Photography](https://steemit.com/photography/@googlenews/3dey9z-photography) | `[C C-I P O]` | Photography | 06-18 |
 | 4 | [Photography](https://steemit.com/photography/@googlenews/juhep-photography) | `[C C-I P O]` | Photography | 06-18 |
+| 5 | [Photography Fall](https://steemit.com/photography/@googlenews/photography-fall) | `[C C-I P O]` | Photography | 06-18 |
+| 6 | [Photography](https://steemit.com/photography/@googlenews/3xbd2q-photography) | `[C C-I P O]` | Photography | 06-18 |
 
 ### [@inzouikroft](https://steemit.com/@inzouikroft)
 Reputation: **35**
@@ -147,6 +149,7 @@ Reputation: **27**
 | 3 | [Qurrex - first hybrid cryptocurrency exchange](https://steemit.com/crytocurrency/@rayed/qurrex-first-hybrid-cryptocurrency-exchange) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 | 4 | [MoneyToken — A blockchain-based financial ecosystem](https://steemit.com/crytocurrency/@rayed/moneytoken-a-blockchain-based-financial-ecosystem) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 | 5 | [COUNTINGHOUSE](https://steemit.com/crytocurrency/@rayed/countinghouse) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
+| 6 | [KONIOS](https://steemit.com/cryptocurrency/@rayed/konios) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 
 ### [@rupas](https://steemit.com/@rupas)
 Reputation: **27**
