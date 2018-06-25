@@ -176,3 +176,12 @@ Reputation: **35**
 | 3 | [Seasonal fruits and vegetables to protect the health of children](https://steemit.com/melip/@saidul-islam/seasonal-fruits-and-vegetables-to-protect-the-health-of-children) | `[C C-I C-GT S O]` | News-Report | 06-18 |
 | 4 | [Different shrimp shrimp biriyani](https://steemit.com/melip/@saidul-islam/different-shrimp-shrimp-biriyani) | `[C C-I C-GT S O]` | Recipe | 06-18 |
 | 5 | [When drinking water can be damaged](https://steemit.com/melip/@saidul-islam/when-drinking-water-can-be-damaged) | `[C C-I C-GT S O]` | News-Report | 06-18 |
+
+### [@salko123](https://steemit.com/@salko123)
+Reputation: **28**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Summer Small Pet Cat Dog thanks teenage mutant ninja turtles Vest Clothing Costumes Dog](https://steemit.com/cn/@salko123/summer-small-pet-cat-dog-thanks-teenage-mutant-ninja-turtles-vest-clothing-costumes-dog) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
+| 2 | [Forbidden Steak found in Istanbul](https://steemit.com/photography/@salko123/forbidden-steak-found-in-istanbul) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
+| 3 | [Bullied 7 Year-Old Finds Cat With Same Rare Eye Condition And Cleft Lip, And It’s Like Destiny Exists](https://steemit.com/vlog/@salko123/bullied-7-year-old-finds-cat-with-same-rare-eye-condition-and-cleft-lip-and-it-s-like-destiny-exists) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
