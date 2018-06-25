@@ -26,7 +26,7 @@ Reputation: **29**
 | 3 | [Pakistan temporary PM invites UAE companies to invest in country.](https://steemit.com/pakistan/@ashir-zuhaib/pakistan-temporary-pm-invites-uae-companies-to-invest-in-country-e5a2ccfe1127d) | `[C C-RM S O]` | News-Snippet | 06-18 |
 
 ### [@danvil.identity](https://steemit.com/@danvil.identity)
-Reputation: **34**
+Reputation: **34** (formerly 33)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
 | -: | - | - | - | - |
@@ -130,7 +130,7 @@ Reputation: **32**
 *More than 10 illicit posts. Other posts: [(11)](https://steemit.com/contest/@pritidkurani/frog-waiting-for-rain), [(12)](https://steemit.com/contest/@pritidkurani/tulip-a-colorful-gift-from-almighty-god), [(13)](https://steemit.com/news/@pritidkurani/atmosphere-at-new-delhi), [(14)](https://steemit.com/travel/@pritidkurani/my-finland-tour)*
 
 ### [@raselcom](https://steemit.com/@raselcom)
-Reputation: **33**
+Reputation: **35** (formerly 33)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
 | -: | - | - | - | - |
@@ -146,7 +146,7 @@ Reputation: **33**
 | 10 | [HOW TO MAKE PRIMITIVE ARROWS – THE BASICS](https://steemit.com/busy/@raselcom/how-to-make-primitive-arrows-the-basics) | `[C C-I S O]` | Tutorial | 06-18 |
 
 ### [@rayed](https://steemit.com/@rayed)
-Reputation: **27**
+Reputation: **28** (formerly 27)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
 | -: | - | - | - | - |
