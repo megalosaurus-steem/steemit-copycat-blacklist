@@ -40,6 +40,10 @@ Reputation: **34**
 | 8 | [Support for neighbors (Croatia)](https://steemit.com/sport/@danvil.identity/support-for-neighbors-croatia) | `[C C-I S O]` | Image | 06-18 |
 | 9 | [My work](https://steemit.com/art/@danvil.identity/my-work) | `[C C-I O]` | Blog-Post | 06-18 |
 | 10 | [Please, if you don't know my language, you can to use ''google translate''](https://steemit.com/art/@danvil.identity/please-if-you-don-t-know-my-language-you-can-to-use-google-translate) | `[C C-I O]` | Blog-Post | 06-18 |
+| ...
+| = | **12 in total**
+
+*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/vlog/@danvil.identity/cute-golden-retriever-on-board), [(12)](https://steemit.com/vlog/@danvil.identity/when-you-get-to-bring-your-dog-to-work-and-she-reminds-you-that-you-re-her-favorite-person)*
 
 ### [@darpankurani](https://steemit.com/@darpankurani)
 Reputation: **25**
