@@ -16,7 +16,7 @@ This GitHub repository is used to maintain a central public blacklist of identif
 ***Notes:***
 * `*` marks posts which have been edited by the author to comply with Steemit original content rules after I have commented on them.
 
-### [@ashir-zuhaib](https://steemit.com/@danvil.identity)
+### [@ashir-zuhaib](https://steemit.com/@ashir-zuhaib)
 Reputation: **29**
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
@@ -24,6 +24,15 @@ Reputation: **29**
 | 1 | `*` [Government of Pakistan has announced eid holidays.](https://steemit.com/eid/@ashir-zuhaib/government-of-pakistan-has-announced-eid-holidays-062cb34cd72b9) | `[C C-I S O]` | Image | 06-18 |
 | 2 | `*` [Eidi should be like this](https://steemit.com/eidi/@ashir-zuhaib/eidi-should-be-like-this-b075149b75374) | `[C C-I C-I-M S O]` | Image | 06-18 |
 | 3 | [Pakistan temporary PM invites UAE companies to invest in country.](https://steemit.com/pakistan/@ashir-zuhaib/pakistan-temporary-pm-invites-uae-companies-to-invest-in-country-e5a2ccfe1127d) | `[C C-RM S O]` | News-Snippet | 06-18 |
+
+### [@butterfly08](https://steemit.com/@butterfly08)
+Reputation: **35**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-13) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Dukkah-rolled eggs with freekeh and beetroot](https://steemit.com/food/@butterfly08/5r8vzh-dukkah-rolled-eggs-with-freekeh-and-beetroot) | `[C C-I S O]` | Image | 06-18 |
+| 2 | [Ice cream](https://steemit.com/food/@butterfly08/ice-cream) | `[C C-I S O]` | Image | 06-18 |
+| 3 | [sunset in Padma river..](https://steemit.com/nature/@butterfly08/sunset-in-padma-river) | `[C C-I S O]` | Image | 06-18 |
 
 ### [@danvil.identity](https://steemit.com/@danvil.identity)
 Reputation: **34** (formerly 33)
@@ -43,7 +52,7 @@ Reputation: **34** (formerly 33)
 | ...
 | = | **12 in total**
 
-*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/vlog/@danvil.identity/cute-golden-retriever-on-board), [(12)](https://steemit.com/vlog/@danvil.identity/when-you-get-to-bring-your-dog-to-work-and-she-reminds-you-that-you-re-her-favorite-person)*
+*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/vlog/@danvil.identity/cute-golden-retriever-on-board), [(12)](https://steemit.com/vlog/@danvil.identity/when-you-get-to-bring-your-dog-to-work-and-she-reminds-you-that-you-re-her-favorite-person), [(13)](https://steemit.com/vlog/@danvil.identity/not-enough-baby-giraffes-on-here)*
 
 ### [@darpankurani](https://steemit.com/@darpankurani)
 Reputation: **25**
@@ -176,6 +185,7 @@ Reputation: **35**
 | 3 | [Seasonal fruits and vegetables to protect the health of children](https://steemit.com/melip/@saidul-islam/seasonal-fruits-and-vegetables-to-protect-the-health-of-children) | `[C C-I C-GT S O]` | News-Report | 06-18 |
 | 4 | [Different shrimp shrimp biriyani](https://steemit.com/melip/@saidul-islam/different-shrimp-shrimp-biriyani) | `[C C-I C-GT S O]` | Recipe | 06-18 |
 | 5 | [When drinking water can be damaged](https://steemit.com/melip/@saidul-islam/when-drinking-water-can-be-damaged) | `[C C-I C-GT S O]` | News-Report | 06-18 |
+| 6 | [original Bill photography by me.. 26/6/2018.](https://steemit.com/busy/@saidul-islam/original-bill-photography-by-me-26-6-2018) | `[C C-O O]` | Short Report | 06-18 |
 
 ### [@salko123](https://steemit.com/@salko123)
 Reputation: **28**
@@ -185,3 +195,4 @@ Reputation: **28**
 | 1 | [Summer Small Pet Cat Dog thanks teenage mutant ninja turtles Vest Clothing Costumes Dog](https://steemit.com/cn/@salko123/summer-small-pet-cat-dog-thanks-teenage-mutant-ninja-turtles-vest-clothing-costumes-dog) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
 | 2 | [Forbidden Steak found in Istanbul](https://steemit.com/photography/@salko123/forbidden-steak-found-in-istanbul) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
 | 3 | [Bullied 7 Year-Old Finds Cat With Same Rare Eye Condition And Cleft Lip, And It’s Like Destiny Exists](https://steemit.com/vlog/@salko123/bullied-7-year-old-finds-cat-with-same-rare-eye-condition-and-cleft-lip-and-it-s-like-destiny-exists) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
+| 4 | [Perfectly roasted marshmallows](https://steemit.com/vlog/@salko123/perfectly-roasted-marshmallows) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
