@@ -30,9 +30,10 @@ Reputation: **35**
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
 | -: | - | - | - | - |
-| 1 | [Dukkah-rolled eggs with freekeh and beetroot](https://steemit.com/food/@butterfly08/5r8vzh-dukkah-rolled-eggs-with-freekeh-and-beetroot) | `[C C-I S O]` | Image | 06-18 |
-| 2 | [Ice cream](https://steemit.com/food/@butterfly08/ice-cream) | `[C C-I S O]` | Image | 06-18 |
-| 3 | [sunset in Padma river..](https://steemit.com/nature/@butterfly08/sunset-in-padma-river) | `[C C-I S O]` | Image | 06-18 |
+| 1 | [Dukkah-rolled eggs with freekeh and beetroot](https://steemit.com/food/@butterfly08/5r8vzh-dukkah-rolled-eggs-with-freekeh-and-beetroot) | `[C C-I S O]` | Photo | 06-18 |
+| 2 | [Ice cream](https://steemit.com/food/@butterfly08/ice-cream) | `[C C-I S O]` | Photo | 06-18 |
+| 3 | [sunset in Padma river..](https://steemit.com/nature/@butterfly08/sunset-in-padma-river) | `[C C-I S O]` | Photo | 06-18 |
+| 3 | [Marigold or Gada Flower](https://steemit.com/flower/@butterfly08/marigold-or-gada-flower) | `[C C-I S O]` | Photo | 06-18 |
 
 ### [@danvil.identity](https://steemit.com/@danvil.identity)
 Reputation: **34** (formerly 33)
