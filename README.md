@@ -36,7 +36,7 @@ Reputation: **35**
 | 3 | [Marigold or Gada Flower](https://steemit.com/flower/@butterfly08/marigold-or-gada-flower) | `[C C-I S O]` | Photo | 06-18 |
 
 ### [@danvil.identity](https://steemit.com/@danvil.identity)
-Reputation: **34** (formerly 33)
+Reputation: **24** (formerly 34)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
 | -: | - | - | - | - |
@@ -51,9 +51,9 @@ Reputation: **34** (formerly 33)
 | 9 | [My work](https://steemit.com/art/@danvil.identity/my-work) | `[C C-I O]` | Blog-Post | 06-18 |
 | 10 | [Please, if you don't know my language, you can to use ''google translate''](https://steemit.com/art/@danvil.identity/please-if-you-don-t-know-my-language-you-can-to-use-google-translate) | `[C C-I O]` | Blog-Post | 06-18 |
 | ...
-| = | **13 in total**
+| = | **14 in total**
 
-*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/vlog/@danvil.identity/cute-golden-retriever-on-board), [(12)](https://steemit.com/vlog/@danvil.identity/when-you-get-to-bring-your-dog-to-work-and-she-reminds-you-that-you-re-her-favorite-person), [(13)](https://steemit.com/vlog/@danvil.identity/not-enough-baby-giraffes-on-here)*
+*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/vlog/@danvil.identity/cute-golden-retriever-on-board), [(12)](https://steemit.com/vlog/@danvil.identity/when-you-get-to-bring-your-dog-to-work-and-she-reminds-you-that-you-re-her-favorite-person), [(13)](https://steemit.com/vlog/@danvil.identity/not-enough-baby-giraffes-on-here), [(14)](https://steemit.com/vlog/@danvil.identity/parking-in-bosnia)*
 
 ### [@darpankurani](https://steemit.com/@darpankurani)
 Reputation: **25**
@@ -154,6 +154,10 @@ Reputation: **35** (formerly 33)
 | 8 | [How To Grill Watermelon](https://steemit.com/busy/@raselcom/how-to-grill-watermelon) | `[C C-I S O]` | Recipe | 06-18 |
 | 9 | [Healthy Granola Bar Recipe](https://steemit.com/health/@raselcom/healthy-granola-bar-recipe) | `[C C-I S O]` | Recipe | 06-18 |
 | 10 | [HOW TO MAKE PRIMITIVE ARROWS – THE BASICS](https://steemit.com/busy/@raselcom/how-to-make-primitive-arrows-the-basics) | `[C C-I S O]` | Tutorial | 06-18 |
+| ...
+| = | **11 in total**
+
+*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/busy/@raselcom/maquiagem-com-sombra-vermelha-perca-o-medo-e-veja-como-usar-sombra-vermelha-laranja-e-dourada-maquiagem-com-sombra-vermelha)*
 
 ### [@rayed](https://steemit.com/@rayed)
 Reputation: **28** (formerly 27)
@@ -197,3 +201,4 @@ Reputation: **28**
 | 2 | [Forbidden Steak found in Istanbul](https://steemit.com/photography/@salko123/forbidden-steak-found-in-istanbul) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
 | 3 | [Bullied 7 Year-Old Finds Cat With Same Rare Eye Condition And Cleft Lip, And It’s Like Destiny Exists](https://steemit.com/vlog/@salko123/bullied-7-year-old-finds-cat-with-same-rare-eye-condition-and-cleft-lip-and-it-s-like-destiny-exists) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
 | 4 | [Perfectly roasted marshmallows](https://steemit.com/vlog/@salko123/perfectly-roasted-marshmallows) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
+| 5 | [What a nugget](https://steemit.com/vlog/@salko123/what-a-nugget) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
