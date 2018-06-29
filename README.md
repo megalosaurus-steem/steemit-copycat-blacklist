@@ -53,7 +53,7 @@ Reputation: **24** (formerly 34)
 | ...
 | = | **16 in total**
 
-*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/vlog/@danvil.identity/cute-golden-retriever-on-board), [(12)](https://steemit.com/vlog/@danvil.identity/when-you-get-to-bring-your-dog-to-work-and-she-reminds-you-that-you-re-her-favorite-person), [(13)](https://steemit.com/vlog/@danvil.identity/not-enough-baby-giraffes-on-here), [(14)](https://steemit.com/vlog/@danvil.identity/parking-in-bosnia), [(15)](hhttps://steemit.com/vlog/@danvil.identity/my-beauty-girl-d), [(16)](https://steemit.com/photography/@danvil.identity/loves-getting-his-haircut)*
+*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/vlog/@danvil.identity/cute-golden-retriever-on-board), [(12)](https://steemit.com/vlog/@danvil.identity/when-you-get-to-bring-your-dog-to-work-and-she-reminds-you-that-you-re-her-favorite-person), [(13)](https://steemit.com/vlog/@danvil.identity/not-enough-baby-giraffes-on-here), [(14)](https://steemit.com/vlog/@danvil.identity/parking-in-bosnia), [(15)](https://steemit.com/vlog/@danvil.identity/my-beauty-girl-d), [(16)](https://steemit.com/photography/@danvil.identity/loves-getting-his-haircut)*
 
 ### [@darpankurani](https://steemit.com/@darpankurani)
 Reputation: **25**
