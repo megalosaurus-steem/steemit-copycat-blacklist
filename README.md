@@ -51,9 +51,9 @@ Reputation: **24** (formerly 34)
 | 9 | [My work](https://steemit.com/art/@danvil.identity/my-work) | `[C C-I O]` | Blog-Post | 06-18 |
 | 10 | [Please, if you don't know my language, you can to use ''google translate''](https://steemit.com/art/@danvil.identity/please-if-you-don-t-know-my-language-you-can-to-use-google-translate) | `[C C-I O]` | Blog-Post | 06-18 |
 | ...
-| = | **14 in total**
+| = | **16 in total**
 
-*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/vlog/@danvil.identity/cute-golden-retriever-on-board), [(12)](https://steemit.com/vlog/@danvil.identity/when-you-get-to-bring-your-dog-to-work-and-she-reminds-you-that-you-re-her-favorite-person), [(13)](https://steemit.com/vlog/@danvil.identity/not-enough-baby-giraffes-on-here), [(14)](https://steemit.com/vlog/@danvil.identity/parking-in-bosnia)*
+*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/vlog/@danvil.identity/cute-golden-retriever-on-board), [(12)](https://steemit.com/vlog/@danvil.identity/when-you-get-to-bring-your-dog-to-work-and-she-reminds-you-that-you-re-her-favorite-person), [(13)](https://steemit.com/vlog/@danvil.identity/not-enough-baby-giraffes-on-here), [(14)](https://steemit.com/vlog/@danvil.identity/parking-in-bosnia), [(15)](hhttps://steemit.com/vlog/@danvil.identity/my-beauty-girl-d), [(16)](https://steemit.com/photography/@danvil.identity/loves-getting-his-haircut)*
 
 ### [@darpankurani](https://steemit.com/@darpankurani)
 Reputation: **25**
@@ -202,3 +202,4 @@ Reputation: **28**
 | 3 | [Bullied 7 Year-Old Finds Cat With Same Rare Eye Condition And Cleft Lip, And It’s Like Destiny Exists](https://steemit.com/vlog/@salko123/bullied-7-year-old-finds-cat-with-same-rare-eye-condition-and-cleft-lip-and-it-s-like-destiny-exists) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
 | 4 | [Perfectly roasted marshmallows](https://steemit.com/vlog/@salko123/perfectly-roasted-marshmallows) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
 | 5 | [What a nugget](https://steemit.com/vlog/@salko123/what-a-nugget) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
+| 6 | [Picture of my friend’s bird, thought it looked fake.](https://steemit.com/photography/@salko123/picture-of-my-friend-s-bird-thought-it-looked-fake) | `[C C-I P S O]` | Reddit-Image-Post | 06-18 |
