@@ -33,10 +33,10 @@ Reputation: **35**
 | 1 | [Dukkah-rolled eggs with freekeh and beetroot](https://steemit.com/food/@butterfly08/5r8vzh-dukkah-rolled-eggs-with-freekeh-and-beetroot) | `[C C-I S O]` | Photo | 06-18 |
 | 2 | [Ice cream](https://steemit.com/food/@butterfly08/ice-cream) | `[C C-I S O]` | Photo | 06-18 |
 | 3 | [sunset in Padma river..](https://steemit.com/nature/@butterfly08/sunset-in-padma-river) | `[C C-I S O]` | Photo | 06-18 |
-| 3 | [Marigold or Gada Flower](https://steemit.com/flower/@butterfly08/marigold-or-gada-flower) | `[C C-I S O]` | Photo | 06-18 |
+| 4 | [Marigold or Gada Flower](https://steemit.com/flower/@butterfly08/marigold-or-gada-flower) | `[C C-I S O]` | Photo | 06-18 |
 
 ### [@danvil.identity](https://steemit.com/@danvil.identity)
-Reputation: **24** (formerly 34)
+Reputation: **25** (formerly 34)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
 | -: | - | - | - | - |
@@ -140,7 +140,7 @@ Reputation: **32**
 *More than 10 illicit posts. Other posts: [(11)](https://steemit.com/contest/@pritidkurani/frog-waiting-for-rain), [(12)](https://steemit.com/contest/@pritidkurani/tulip-a-colorful-gift-from-almighty-god), [(13)](https://steemit.com/news/@pritidkurani/atmosphere-at-new-delhi), [(14)](https://steemit.com/travel/@pritidkurani/my-finland-tour)*
 
 ### [@raselcom](https://steemit.com/@raselcom)
-Reputation: **35** (formerly 33)
+Reputation: **31** (formerly 35)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
 | -: | - | - | - | - |
@@ -155,12 +155,12 @@ Reputation: **35** (formerly 33)
 | 9 | [Healthy Granola Bar Recipe](https://steemit.com/health/@raselcom/healthy-granola-bar-recipe) | `[C C-I S O]` | Recipe | 06-18 |
 | 10 | [HOW TO MAKE PRIMITIVE ARROWS – THE BASICS](https://steemit.com/busy/@raselcom/how-to-make-primitive-arrows-the-basics) | `[C C-I S O]` | Tutorial | 06-18 |
 | ...
-| = | **11 in total**
+| = | **12 in total**
 
-*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/busy/@raselcom/maquiagem-com-sombra-vermelha-perca-o-medo-e-veja-como-usar-sombra-vermelha-laranja-e-dourada-maquiagem-com-sombra-vermelha)*
+*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/busy/@raselcom/maquiagem-com-sombra-vermelha-perca-o-medo-e-veja-como-usar-sombra-vermelha-laranja-e-dourada-maquiagem-com-sombra-vermelha), [(12)](https://steemit.com/busy/@raselcom/7-amazing-things-that-will-happen-when-you-do-plank-every-day)*
 
 ### [@rayed](https://steemit.com/@rayed)
-Reputation: **28** (formerly 27)
+Reputation: **30** (formerly 27)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
 | -: | - | - | - | - |
@@ -170,9 +170,10 @@ Reputation: **28** (formerly 27)
 | 4 | [MoneyToken — A blockchain-based financial ecosystem](https://steemit.com/crytocurrency/@rayed/moneytoken-a-blockchain-based-financial-ecosystem) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 | 5 | [COUNTINGHOUSE](https://steemit.com/crytocurrency/@rayed/countinghouse) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 | 6 | [KONIOS](https://steemit.com/cryptocurrency/@rayed/konios) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
+| 7 | [PAYERA REVIEW](https://steemit.com/crytocurrency/@rayed/2gmj6e-payera-review) | `[C C-O S O]` | Crypto-ICO | 06-18 |
 
 ### [@rupas](https://steemit.com/@rupas)
-Reputation: **27**
+Reputation: **29**
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
 | -: | - | - | - | - |
