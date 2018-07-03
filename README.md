@@ -69,6 +69,15 @@ Reputation: **25**
 | 7 | [Thursday - macro photography](https://steemit.com/contest/@darpankurani/thursday-macro-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 8 | [Friday - street photography](https://steemit.com/contest/@darpankurani/21i5je-friday-street-photography) | `[C C-I P S O]` | Photography | 06-18 |
 
+### [@dilshan](https://steemit.com/@dilshan)
+Reputation: **25**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Good Morning](https://steemit.com/morring/@dilshan/good-morning) | `[C C-I S O]` | Image | 06-18 |
+| 2 | [Good Night](https://steemit.com/day/@dilshan/good-night) | `[C C-I S O]` | Image | 06-18 |
+| 3 | [Jay Sean Down](https://steemit.com/music/@dilshan/jay-sean-down-b7d36cf7ccd1c) | `[C S O]` | Song lyrics | 07-18 |
+
 ### [@googlenews](https://steemit.com/@googlenews)
 Reputation: **25**
 
@@ -170,7 +179,7 @@ Reputation: **30** (formerly 27)
 | 4 | [MoneyToken — A blockchain-based financial ecosystem](https://steemit.com/crytocurrency/@rayed/moneytoken-a-blockchain-based-financial-ecosystem) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 | 5 | [COUNTINGHOUSE](https://steemit.com/crytocurrency/@rayed/countinghouse) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 | 6 | [KONIOS](https://steemit.com/cryptocurrency/@rayed/konios) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
-| 7 | [PAYERA REVIEW](https://steemit.com/crytocurrency/@rayed/2gmj6e-payera-review) | `[C C-O S O]` | Crypto-ICO | 06-18 |
+| 7 | [PAYERA REVIEW](https://steemit.com/crytocurrency/@rayed/2gmj6e-payera-review) | `[C C-O S O]` | Crypto-ICO | 07-18 |
 
 ### [@rupas](https://steemit.com/@rupas)
 Reputation: **29**
