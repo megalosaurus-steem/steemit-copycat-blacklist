@@ -128,6 +128,15 @@ Reputation: **34**
 | 7 | [10 possible substitutes for Zidane in Real Madrid](https://steemit.com/sports/@mili2018/10-possible-substitutes-for-zidane-in-real-madrid) | `[C C-I C-GT C-C S O]` | Sports | 06-18 |
 | 8 | [OFICIAL: Julen Lopetegui nuevo entrenador del Real Madrid C.F.](https://steemit.com/sports/@mili2018/oficial-julen-lopetegui-nuevo-entrenador-del-real-madrid-c-f) | `[C C-I C-C S O]` | Sports | 06-18 |
 
+### [@najuz](https://steemit.com/@najuz)
+Reputation: **39**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [The 'gangster' of the helicopter turned upside down from jail](https://steemit.com/gangster/@najuz/the-gangster-of-the-helicopter-turned-upside-down-from-jail) | `[C C-I C-GT S O]` | News article | 07-18 |
+| 2 | [Apple is making newer improved maps](https://steemit.com/apple/@najuz/apple-is-making-newer-improved-maps) | `[C C-I C-GT S O]` | News article | 07-18 |
+| 3 | [105-year-old blogger too](https://steemit.com/blogger/@najuz/105-year-old-blogger-too) | `[C C-I C-GT S O]` | News article | 07-18 |
+
 ### [@pritidkurani](https://steemit.com/@pritidkurani)
 Reputation: **32**
 
