@@ -21,9 +21,9 @@ Reputation: **36**
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
 | -: | - | - | - | - |
-| 1 | [Ctrl](https://steemit.com/busy/@alluarjun/ctrl) | `[C C-I S O]` | Meme | 06-18 |
-| 2 | [sleepover](https://steemit.com/busy/@alluarjun/sleepover) | `[C C-I S O]` | Meme | 06-18 |
-| 3 | [guess](https://steemit.com/busy/@alluarjun/guess) | `[C C-I S O]` | Meme | 06-18 |
+| 1 | [Ctrl](https://steemit.com/busy/@alluarjun/ctrl) | `[C C-I S O]` | Meme | 07-18 |
+| 2 | [sleepover](https://steemit.com/busy/@alluarjun/sleepover) | `[C C-I S O]` | Meme | 07-18 |
+| 3 | [guess](https://steemit.com/busy/@alluarjun/guess) | `[C C-I S O]` | Meme | 07-18 |
 
 ### [@ashir-zuhaib](https://steemit.com/@ashir-zuhaib)
 Reputation: **29**
