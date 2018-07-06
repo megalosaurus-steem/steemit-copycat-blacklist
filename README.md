@@ -16,6 +16,15 @@ This GitHub repository is used to maintain a central public blacklist of identif
 ***Notes:***
 * `*` marks posts which have been edited by the author to comply with Steemit original content rules after I have commented on them.
 
+### [@alluarjun](https://steemit.com/@alluarjun)
+Reputation: **36**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Ctrl](https://steemit.com/busy/@alluarjun/ctrl) | `[C C-I S O]` | Meme | 06-18 |
+| 2 | [sleepover](https://steemit.com/busy/@alluarjun/sleepover) | `[C C-I S O]` | Meme | 06-18 |
+| 3 | [guess](https://steemit.com/busy/@alluarjun/guess) | `[C C-I S O]` | Meme | 06-18 |
+
 ### [@ashir-zuhaib](https://steemit.com/@ashir-zuhaib)
 Reputation: **29**
 
@@ -136,6 +145,7 @@ Reputation: **39**
 | 1 | [The 'gangster' of the helicopter turned upside down from jail](https://steemit.com/gangster/@najuz/the-gangster-of-the-helicopter-turned-upside-down-from-jail) | `[C C-I C-GT S O]` | News article | 07-18 |
 | 2 | [Apple is making newer improved maps](https://steemit.com/apple/@najuz/apple-is-making-newer-improved-maps) | `[C C-I C-GT S O]` | News article | 07-18 |
 | 3 | [105-year-old blogger too](https://steemit.com/blogger/@najuz/105-year-old-blogger-too) | `[C C-I C-GT S O]` | News article | 07-18 |
+| 4 | [This man governs the lions with the sandals thrown by the sandals](https://steemit.com/lion/@najuz/this-man-governs-the-lions-with-the-sandals-thrown-by-the-sandals) | `[C C-I C-GT S O]` | News article | 07-18 |
 
 ### [@pritidkurani](https://steemit.com/@pritidkurani)
 Reputation: **32**
