@@ -146,6 +146,7 @@ Reputation: **39**
 | 2 | [Apple is making newer improved maps](https://steemit.com/apple/@najuz/apple-is-making-newer-improved-maps) | `[C C-I C-GT S O]` | News article | 07-18 |
 | 3 | [105-year-old blogger too](https://steemit.com/blogger/@najuz/105-year-old-blogger-too) | `[C C-I C-GT S O]` | News article | 07-18 |
 | 4 | [This man governs the lions with the sandals thrown by the sandals](https://steemit.com/lion/@najuz/this-man-governs-the-lions-with-the-sandals-thrown-by-the-sandals) | `[C C-I C-GT S O]` | News article | 07-18 |
+| 5 | [Finally, the mysterious city that was discovered](https://steemit.com/mysterious/@najuz/finally-the-mysterious-city-that-was-discovered) | `[C C-I C-GT S O]` | News article | 07-18 |
 
 ### [@pritidkurani](https://steemit.com/@pritidkurani)
 Reputation: **32**
