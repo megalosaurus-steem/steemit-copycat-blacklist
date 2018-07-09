@@ -55,7 +55,7 @@ Reputation: **35**
 | 4 | [Marigold or Gada Flower](https://steemit.com/flower/@butterfly08/marigold-or-gada-flower) | `[C C-I S O]` | Photo | 06-18 |
 
 ### [@danvil.identity](https://steemit.com/@danvil.identity)
-Reputation: **25** (formerly 34)
+Reputation: **18** (formerly 34)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
 | -: | - | - | - | - |
@@ -110,7 +110,7 @@ Reputation: **25**
 | 6 | [Photography](https://steemit.com/photography/@googlenews/3xbd2q-photography) | `[C C-I P O]` | Photography | 06-18 |
 
 ### [@inzouikroft](https://steemit.com/@inzouikroft)
-Reputation: **35**
+Reputation: **36** (formerly 35)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
 | -: | - | - | - | - |
@@ -223,7 +223,7 @@ Reputation: **29**
 | 3 | [Expectation & Reality 17](https://steemit.com/expectation/@rupas/expectation-and-reality-17) | `[C C-I S O]` | Meme | 06-18 |
 
 ### [@saidul-islam](https://steemit.com/@saidul-islam)
-Reputation: **35**
+Reputation: **36** (formerly 35)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
 | -: | - | - | - | - |
