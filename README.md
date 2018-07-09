@@ -24,6 +24,16 @@ Reputation: **36**
 | 1 | [Ctrl](https://steemit.com/busy/@alluarjun/ctrl) | `[C C-I S O]` | Meme | 07-18 |
 | 2 | [sleepover](https://steemit.com/busy/@alluarjun/sleepover) | `[C C-I S O]` | Meme | 07-18 |
 | 3 | [guess](https://steemit.com/busy/@alluarjun/guess) | `[C C-I S O]` | Meme | 07-18 |
+| 4 | [Drive](https://steemit.com/busy/@alluarjun/acjvs-drive) | `[C C-I S O]` | Meme | 07-18 |
+
+### [@alom23](https://steemit.com/@alom23)
+Reputation: **42**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [if you drink water standing, then the damage](https://steemit.com/busy/@alom23/if-you-drink-water-standing-then-the-damage) | `[C C-I C-GT S O]` | News article | 07-18 |
+| 2 | [I love Bangladesh](https://steemit.com/darthnava/@alom23/i-love-bangladesh) | `[C C-O C-I C-C S O]` | Images | 07-18 |
+| 3 | [My birds art](https://steemit.com/busy/@alluarjun/guess) | `[C C-O C-I C-I-M S O]` | Images: Clip art | 07-18 |
 
 ### [@ashir-zuhaib](https://steemit.com/@ashir-zuhaib)
 Reputation: **29**
@@ -147,6 +157,8 @@ Reputation: **39**
 | 3 | [105-year-old blogger too](https://steemit.com/blogger/@najuz/105-year-old-blogger-too) | `[C C-I C-GT S O]` | News article | 07-18 |
 | 4 | [This man governs the lions with the sandals thrown by the sandals](https://steemit.com/lion/@najuz/this-man-governs-the-lions-with-the-sandals-thrown-by-the-sandals) | `[C C-I C-GT S O]` | News article | 07-18 |
 | 5 | [Finally, the mysterious city that was discovered](https://steemit.com/mysterious/@najuz/finally-the-mysterious-city-that-was-discovered) | `[C C-I C-GT S O]` | News article | 07-18 |
+| 6 | [Pagla Mosque 89 days, 89 million!](https://steemit.com/mosque/@najuz/pagla-mosque-89-days-89-million) | `[C C-I C-GT S O]` | News article | 07-18 |
+| 7 | [Excessive hair fall, weight change coming, what ...!](https://steemit.com/hair/@najuz/excessive-hair-fall-weight-change-coming-what) | `[C C-I C-GT S O]` | News article | 07-18 |
 
 ### [@pritidkurani](https://steemit.com/@pritidkurani)
 Reputation: **32**
@@ -221,6 +233,7 @@ Reputation: **35**
 | 4 | [Different shrimp shrimp biriyani](https://steemit.com/melip/@saidul-islam/different-shrimp-shrimp-biriyani) | `[C C-I C-GT S O]` | Recipe | 06-18 |
 | 5 | [When drinking water can be damaged](https://steemit.com/melip/@saidul-islam/when-drinking-water-can-be-damaged) | `[C C-I C-GT S O]` | News-Report | 06-18 |
 | 6 | [original Bill photography by me.. 26/6/2018.](https://steemit.com/busy/@saidul-islam/original-bill-photography-by-me-26-6-2018) | `[C C-O O]` | Short Report | 06-18 |
+| 7 | [My art](https://steemit.com/busy/@saidul-islam/my-art) | `[C C-I C-I-M P S O]` | Short Report | 06-18 |
 
 ### [@salko123](https://steemit.com/@salko123)
 Reputation: **28**
@@ -233,3 +246,12 @@ Reputation: **28**
 | 4 | [Perfectly roasted marshmallows](https://steemit.com/vlog/@salko123/perfectly-roasted-marshmallows) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
 | 5 | [What a nugget](https://steemit.com/vlog/@salko123/what-a-nugget) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
 | 6 | [Picture of my friend’s bird, thought it looked fake.](https://steemit.com/photography/@salko123/picture-of-my-friend-s-bird-thought-it-looked-fake) | `[C C-I P S O]` | Reddit-Image-Post | 06-18 |
+
+### [@susan.steemit](https://steemit.com/@susan.steemit)
+Reputation: **38**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Edge](https://steemit.com/funny/@susan.steemit/edge) | `[C C-I S O]` | Meme | 07-18 |
+| 2 | [Mom](https://steemit.com/busy/@susan.steemit/mom) | `[C C-I S O]` | Meme | 07-18 |
+| 3 | [Teacher](https://steemit.com/busy/@susan.steemit/teacher) | `[C C-I S O]` | Meme | 07-18 |
