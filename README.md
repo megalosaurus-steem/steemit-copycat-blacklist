@@ -121,6 +121,15 @@ Reputation: **36** (formerly 35)
 | 5 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/72lajf-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
 | 6 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/xqsf7-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
 
+### [@kdit](https://steemit.com/@kdit)
+Reputation: **38**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Thwip](https://steemit.com/busy/@kdit/thwip) | `[C C-I S O]` | Meme | 07-18 |
+| 2 | [Finally](https://steemit.com/busy/@kdit/finally) | `[C C-I S O]` | Meme | 07-18 |
+| 3 | [Sign](https://steemit.com/busy/@kdit/sign) | `[C C-I S O]` | Meme | 07-18 |
+
 ### [@masudurrahman](https://steemit.com/@masudurrahman)
 Reputation: **27**
 
@@ -255,3 +264,4 @@ Reputation: **38**
 | 1 | [Edge](https://steemit.com/funny/@susan.steemit/edge) | `[C C-I S O]` | Meme | 07-18 |
 | 2 | [Mom](https://steemit.com/busy/@susan.steemit/mom) | `[C C-I S O]` | Meme | 07-18 |
 | 3 | [Teacher](https://steemit.com/busy/@susan.steemit/teacher) | `[C C-I S O]` | Meme | 07-18 |
+| 4 | [Super glue](https://steemit.com/busy/@susan.steemit/super-glue) | `[C C-I S O]` | Meme | 07-18 |
