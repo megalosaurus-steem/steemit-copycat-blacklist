@@ -109,6 +109,15 @@ Reputation: **25**
 | 5 | [Photography Fall](https://steemit.com/photography/@googlenews/photography-fall) | `[C C-I P O]` | Photography | 06-18 |
 | 6 | [Photography](https://steemit.com/photography/@googlenews/3xbd2q-photography) | `[C C-I P O]` | Photography | 06-18 |
 
+### [@hotnight](https://steemit.com/@hotnight)
+Reputation: **38**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Landscape Nature Sky Photography](https://steemit.com/busy/@alluarjun/ctrl) | `[C C-I P O]` | Free stock photo | 07-18 |
+| 2 | [Nature Landscape Photography](https://steemit.com/busy/@alluarjun/sleepover) | `[C C-I P O]` | Free stock photo | 07-18 |
+| 3 | [Camper Photography](https://steemit.com/busy/@alluarjun/guess) | `[C C-I P O]` | Free stock photo | 07-18 |
+
 ### [@inzouikroft](https://steemit.com/@inzouikroft)
 Reputation: **36** (formerly 35)
 
@@ -168,6 +177,7 @@ Reputation: **39**
 | 5 | [Finally, the mysterious city that was discovered](https://steemit.com/mysterious/@najuz/finally-the-mysterious-city-that-was-discovered) | `[C C-I C-GT S O]` | News article | 07-18 |
 | 6 | [Pagla Mosque 89 days, 89 million!](https://steemit.com/mosque/@najuz/pagla-mosque-89-days-89-million) | `[C C-I C-GT S O]` | News article | 07-18 |
 | 7 | [Excessive hair fall, weight change coming, what ...!](https://steemit.com/hair/@najuz/excessive-hair-fall-weight-change-coming-what) | `[C C-I C-GT S O]` | News article | 07-18 |
+| 8 | [One million wages in the first add Priya Prakash](https://steemit.com/actor/@najuz/one-million-wages-in-the-first-add-priya-prakash) | `[C C-I C-GT S O]` | News article | 07-18 |
 
 ### [@pritidkurani](https://steemit.com/@pritidkurani)
 Reputation: **32**
