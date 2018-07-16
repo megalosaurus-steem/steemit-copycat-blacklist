@@ -117,6 +117,8 @@ Reputation: **38**
 | 1 | [Landscape Nature Sky Photography](https://steemit.com/busy/@alluarjun/ctrl) | `[C C-I P O]` | Free stock photo | 07-18 |
 | 2 | [Nature Landscape Photography](https://steemit.com/busy/@alluarjun/sleepover) | `[C C-I P O]` | Free stock photo | 07-18 |
 | 3 | [Camper Photography](https://steemit.com/busy/@alluarjun/guess) | `[C C-I P O]` | Free stock photo | 07-18 |
+| 4 | [Hold The Phone Memes](https://steemit.com/memes/@hotnight/hold-the-phone-memes) | `[C C-I P S O]` | Meme | 07-18 |
+| 5 | [Wake Up Steemit](https://steemit.com/steemit/@hotnight/wake-up-steemit) | `[C C-I P S O]` | Meme | 07-18 |
 
 ### [@inzouikroft](https://steemit.com/@inzouikroft)
 Reputation: **36** (formerly 35)
@@ -252,7 +254,9 @@ Reputation: **36** (formerly 35)
 | 4 | [Different shrimp shrimp biriyani](https://steemit.com/melip/@saidul-islam/different-shrimp-shrimp-biriyani) | `[C C-I C-GT S O]` | Recipe | 06-18 |
 | 5 | [When drinking water can be damaged](https://steemit.com/melip/@saidul-islam/when-drinking-water-can-be-damaged) | `[C C-I C-GT S O]` | News-Report | 06-18 |
 | 6 | [original Bill photography by me.. 26/6/2018.](https://steemit.com/busy/@saidul-islam/original-bill-photography-by-me-26-6-2018) | `[C C-O O]` | Short Report | 06-18 |
-| 7 | [My art](https://steemit.com/busy/@saidul-islam/my-art) | `[C C-I C-I-M P S O]` | Short Report | 06-18 |
+| 7 | [My art](https://steemit.com/busy/@saidul-islam/my-art) | `[C C-I C-I-M P S O]` | Cliparts | 06-18 |
+| 8 | [My new nature art](https://steemit.com/melip/@saidul-islam/my-new-nature-art) | `[C C-I C-I-M S O]` | Cliparts | 07-18 |
+| 9 | [Determination time for body exercises](https://steemit.com/busy/@saidul-islam/determination-time-for-body-exercises) | `[C C-I C-GT S O]` | Short Report | 07-18 |
 
 ### [@salko123](https://steemit.com/@salko123)
 Reputation: **28**
@@ -265,6 +269,15 @@ Reputation: **28**
 | 4 | [Perfectly roasted marshmallows](https://steemit.com/vlog/@salko123/perfectly-roasted-marshmallows) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
 | 5 | [What a nugget](https://steemit.com/vlog/@salko123/what-a-nugget) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
 | 6 | [Picture of my friend’s bird, thought it looked fake.](https://steemit.com/photography/@salko123/picture-of-my-friend-s-bird-thought-it-looked-fake) | `[C C-I P S O]` | Reddit-Image-Post | 06-18 |
+
+### [@saraheasy](https://steemit.com/@saraheasy)
+Reputation: **39**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Dahlias Bud Flower Photography](https://steemit.com/photography/@saraheasy/dahlias-bud-flower-photography) | `[C C-I P O]` | Free stock photo | 07-18 |
+| 2 | [Snow Landscape White Winter Trees Photography](https://steemit.com/photography/@saraheasy/snow-landscape-white-winter-trees-photography) | `[C C-I P O]` | Free stock photo | 07-18 |
+| 3 | [Dark Cloudy Sky Photography](https://steemit.com/photography/@saraheasy/dark-cloudy-sky-photography) | `[C C-I P O]` | Free stock photo | 07-18 |
 
 ### [@susan.steemit](https://steemit.com/@susan.steemit)
 Reputation: **38**
