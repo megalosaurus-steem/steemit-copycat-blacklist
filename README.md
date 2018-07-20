@@ -120,6 +120,8 @@ Reputation: **38**
 | 4 | [Hold The Phone Memes](https://steemit.com/memes/@hotnight/hold-the-phone-memes) | `[C C-I P S O]` | Meme | 07-18 |
 | 5 | [Wake Up Steemit](https://steemit.com/steemit/@hotnight/wake-up-steemit) | `[C C-I P S O]` | Meme | 07-18 |
 | 6 | [On my way Goodbye GIF](https://steemit.com/steemit/@hotnight/on-my-way-goodbye-gif) | `[C C-I P S O]` | Meme | 07-18 |
+| 7 | [90S Kid Flirt GIF](https://steemit.com/memes/@hotnight/90s-kid-flirt-gif) | `[C C-I P S O]` | Meme | 07-18 |
+| 8 | [Go Home on steemit](https://steemit.com/memes/@hotnight/go-home-on-steemit) | `[C C-I P S O]` | Meme | 07-18 |
 
 ### [@inzouikroft](https://steemit.com/@inzouikroft)
 Reputation: **36** (formerly 35)
@@ -281,6 +283,7 @@ Reputation: **39**
 | 2 | [Snow Landscape White Winter Trees Photography](https://steemit.com/photography/@saraheasy/snow-landscape-white-winter-trees-photography) | `[C C-I P O]` | Free stock photo | 07-18 |
 | 3 | [Dark Cloudy Sky Photography](https://steemit.com/photography/@saraheasy/dark-cloudy-sky-photography) | `[C C-I P O]` | Free stock photo | 07-18 |
 | 4 | [Green Grassland Landscape Photography](https://steemit.com/photography/@saraheasy/green-grassland-landscape-photography) | `[C C-I P O]` | Free stock photo | 07-18 |
+| 5 | [Masic Memes](https://steemit.com/memes/@saraheasy/masic-memes) | `[C C-I P S O]` | Meme | 07-18 |
 
 ### [@susan.steemit](https://steemit.com/@susan.steemit)
 Reputation: **38**
