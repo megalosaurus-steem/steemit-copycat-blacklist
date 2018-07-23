@@ -17,7 +17,7 @@ This GitHub repository is used to maintain a central public blacklist of identif
 * `*` marks posts which have been edited by the author to comply with Steemit original content rules after I have commented on them.
 
 ### [@alluarjun](https://steemit.com/@alluarjun)
-Reputation: **36**
+Reputation: **37** (formerly 36)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
 | -: | - | - | - | - |
@@ -27,7 +27,7 @@ Reputation: **36**
 | 4 | [Drive](https://steemit.com/busy/@alluarjun/acjvs-drive) | `[C C-I S O]` | Meme | 07-18 |
 
 ### [@alom23](https://steemit.com/@alom23)
-Reputation: **42**
+Reputation: **43** (formerly 42)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
 | -: | - | - | - | - |
@@ -122,6 +122,8 @@ Reputation: **38**
 | 6 | [On my way Goodbye GIF](https://steemit.com/steemit/@hotnight/on-my-way-goodbye-gif) | `[C C-I P S O]` | Meme | 07-18 |
 | 7 | [90S Kid Flirt GIF](https://steemit.com/memes/@hotnight/90s-kid-flirt-gif) | `[C C-I P S O]` | Meme | 07-18 |
 | 8 | [Go Home on steemit](https://steemit.com/memes/@hotnight/go-home-on-steemit) | `[C C-I P S O]` | Meme | 07-18 |
+| 9 | [Landscape Photography Nature of Mountain](https://steemit.com/photography/@hotnight/landscape-photography-nature-of-mountain) | `[C C-I O]` | Free stock photo | 07-18 |
+| 10 | [Roadway Autumn Landscape Photography](https://steemit.com/photography/@hotnight/roadway-autumn-landscape-photography) | `[C C-I O]` | Free stock photo | 07-18 |
 
 ### [@inzouikroft](https://steemit.com/@inzouikroft)
 Reputation: **36** (formerly 35)
@@ -136,13 +138,14 @@ Reputation: **36** (formerly 35)
 | 6 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/xqsf7-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
 
 ### [@kdit](https://steemit.com/@kdit)
-Reputation: **38**
+Reputation: **39** (formerly 38)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Thwip](https://steemit.com/busy/@kdit/thwip) | `[C C-I S O]` | Meme | 07-18 |
 | 2 | [Finally](https://steemit.com/busy/@kdit/finally) | `[C C-I S O]` | Meme | 07-18 |
 | 3 | [Sign](https://steemit.com/busy/@kdit/sign) | `[C C-I S O]` | Meme | 07-18 |
+| 4 | [Success](https://steemit.com/busy/@kdit/success) | `[C C-I S O]` | Quotes | 07-18 |
 
 ### [@masudurrahman](https://steemit.com/@masudurrahman)
 Reputation: **27**
@@ -225,7 +228,7 @@ Reputation: **31** (formerly 35)
 *More than 10 illicit posts. Other posts: [(11)](https://steemit.com/busy/@raselcom/maquiagem-com-sombra-vermelha-perca-o-medo-e-veja-como-usar-sombra-vermelha-laranja-e-dourada-maquiagem-com-sombra-vermelha), [(12)](https://steemit.com/busy/@raselcom/7-amazing-things-that-will-happen-when-you-do-plank-every-day)*
 
 ### [@rayed](https://steemit.com/@rayed)
-Reputation: **30** (formerly 27)
+Reputation: **38** (formerly 27)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
 | -: | - | - | - | - |
@@ -261,6 +264,10 @@ Reputation: **36** (formerly 35)
 | 8 | [My new nature art](https://steemit.com/melip/@saidul-islam/my-new-nature-art) | `[C C-I C-I-M S O]` | Cliparts | 07-18 |
 | 9 | [Determination time for body exercises](https://steemit.com/busy/@saidul-islam/determination-time-for-body-exercises) | `[C C-I C-GT S O]` | Short Report | 07-18 |
 | 10 | [My daily photography part (2)](https://steemit.com/busy/@saidul-islam/my-daily-photography-part-2) | `[C C-I C-C P S O]` | Photos | 07-18 |
+| ...
+| = | **11 in total**
+
+*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/poem/@saidul-islam/3nejed)*
 
 ### [@salko123](https://steemit.com/@salko123)
 Reputation: **28**
@@ -286,7 +293,7 @@ Reputation: **39**
 | 5 | [Masic Memes](https://steemit.com/memes/@saraheasy/masic-memes) | `[C C-I P S O]` | Meme | 07-18 |
 
 ### [@susan.steemit](https://steemit.com/@susan.steemit)
-Reputation: **38**
+Reputation: **40** (formerly 38)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
 | -: | - | - | - | - |
