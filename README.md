@@ -97,6 +97,17 @@ Reputation: **25**
 | 2 | [Good Night](https://steemit.com/day/@dilshan/good-night) | `[C C-I S O]` | Image | 06-18 |
 | 3 | [Jay Sean Down](https://steemit.com/music/@dilshan/jay-sean-down-b7d36cf7ccd1c) | `[C S O]` | Song lyrics | 07-18 |
 
+### [@fatima1212](https://steemit.com/@fatima1212)
+Reputation: **21**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Good night my steemit friend.. I also love photography because photography is a name of art name of ...](https://steemit.com/night/@fatima1212/good-night-my-steemit-friend-i-also-love-photography-because-photography-is-a-name-of-art-name-of-practice-try-to-make-something-6b7f87e8af606) | `[C C-I P S O]` | Photography | 07-18 |
+| 2 | [Beautiful I also love photography because photography is a name of art name of practice try to make ...](https://steemit.com/photography/@fatima1212/beautiful-i-also-love-photography-because-photography-is-a-name-of-art-name-of-practice-try-to-make-something-new-something-5d094d66efddb) | `[C C-I P S O]` | Photography | 07-18 |
+| 3 | [The House of Allah.. This is where Muslims perform Hajj and Umrah..](https://steemit.com/allah/@fatima1212/the-house-of-allah-this-is-where-muslims-perform-hajj-and-umrah-723811c0dffd7) | `[C C-I S O]` | Photography | 07-18 |
+| 4 | [Nice amazing photo I love Photogarphy because it's relation to the nature](https://steemit.com/photography/@fatima1212/nice-amazing-photo-i-love-photogarphy-because-it-s-relation-to-the-nature-2a26f1da6485a) | `[C C-I P S O]` | Photography | 07-18 |
+| 5 | [Beautiful nature ancient photography](https://steemit.com/nice/@fatima1212/beautiful-nature-ancient-photography-45d93e774c82a) | `[C C-I P S O]` | Photography | 07-18 |
+
 ### [@googlenews](https://steemit.com/@googlenews)
 Reputation: **25**
 
@@ -239,6 +250,8 @@ Reputation: **38** (formerly 27)
 | 5 | [COUNTINGHOUSE](https://steemit.com/crytocurrency/@rayed/countinghouse) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 | 6 | [KONIOS](https://steemit.com/cryptocurrency/@rayed/konios) | `[C C-I C-RM C-C S O]` | Crypto-ICO | 06-18 |
 | 7 | [PAYERA REVIEW](https://steemit.com/crytocurrency/@rayed/2gmj6e-payera-review) | `[C C-O S O]` | Crypto-ICO | 07-18 |
+| 8 | [KONIOS ICO REVIEW](https://steemit.com/crytocurrency/@rayed/konios-ico-review) | `[C C-I C-RM C-RS C-C S O]` | Crypto-ICO | 07-18 |
+| 9 | [Sgame Pro - PLAY MOBILE GAMES MINE CRYPTO-TOKENS EARN REAL MONEY](https://steemit.com/crytocurrency/@rayed/sgame-pro-play-mobile-games-mine-crypto-tokens-earn-real-money) | `[C C-I C-RM C-RS C-C S O]` | Crypto-ICO | 07-18 |
 
 ### [@rupas](https://steemit.com/@rupas)
 Reputation: **29**
@@ -301,3 +314,12 @@ Reputation: **40** (formerly 38)
 | 2 | [Mom](https://steemit.com/busy/@susan.steemit/mom) | `[C C-I S O]` | Meme | 07-18 |
 | 3 | [Teacher](https://steemit.com/busy/@susan.steemit/teacher) | `[C C-I S O]` | Meme | 07-18 |
 | 4 | [Super glue](https://steemit.com/busy/@susan.steemit/super-glue) | `[C C-I S O]` | Meme | 07-18 |
+
+### [@tanveeran](https://steemit.com/@tanveeran)
+Reputation: **27**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [photogrphy](https://steemit.com/night/@fatima1212/good-night-my-steemit-friend-i-also-love-photography-because-photography-is-a-name-of-art-name-of-practice-try-to-make-something-6b7f87e8af606) | `[C C-I P S O]` | Photography | 07-18 |
+| 2 | [photography](https://steemit.com/photography/@fatima1212/beautiful-i-also-love-photography-because-photography-is-a-name-of-art-name-of-practice-try-to-make-something-new-something-5d094d66efddb) | `[C C-I S O]` | Photography | 07-18 |
+| 3 | [Artphotography](https://steemit.com/allah/@fatima1212/the-house-of-allah-this-is-where-muslims-perform-hajj-and-umrah-723811c0dffd7) | `[C C-I P S O]` | Photography | 07-18 |
