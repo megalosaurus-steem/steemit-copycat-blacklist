@@ -109,6 +109,7 @@ Reputation: **21**
 | 5 | [Beautiful nature ancient photography](https://steemit.com/nice/@fatima1212/beautiful-nature-ancient-photography-45d93e774c82a) | `[C C-I P S O]` | Photography | 07-18 |
 | 6 | [Beautiful flowers I love flowers because it's relation to the nature..](https://steemit.com/flowers/@fatima1212/beautiful-flowers-i-love-flowers-because-it-s-relation-to-the-nature-1c80382d178f2) | `[C C-I P S O]` | Photography | 07-18 |
 | 7 | [Beautiful sunshine moment amazing I love Photogarphy..](https://steemit.com/sunrise/@fatima1212/beautiful-sunshine-moment-amazing-i-love-photogarphy-e661fec5d46e8) | `[C C-I S O]` | Photography | 07-18 |
+| 8 | [My name is Fatima and I live in Pakistan..](https://steemit.com/fatima/@fatima1212/my-name-is-fatima-and-i-live-in-pakistan-4c120220d5bfc) | `[C C-I S O]` | Photography | 07-18 |
 
 ### [@googlenews](https://steemit.com/@googlenews)
 Reputation: **25**
@@ -334,3 +335,5 @@ Reputation: **27**
 | 1 | [photogrphy](https://steemit.com/night/@fatima1212/good-night-my-steemit-friend-i-also-love-photography-because-photography-is-a-name-of-art-name-of-practice-try-to-make-something-6b7f87e8af606) | `[C C-I P S O]` | Photography | 07-18 |
 | 2 | [photography](https://steemit.com/photography/@fatima1212/beautiful-i-also-love-photography-because-photography-is-a-name-of-art-name-of-practice-try-to-make-something-new-something-5d094d66efddb) | `[C C-I S O]` | Photography | 07-18 |
 | 3 | [Artphotography](https://steemit.com/allah/@fatima1212/the-house-of-allah-this-is-where-muslims-perform-hajj-and-umrah-723811c0dffd7) | `[C C-I P S O]` | Photography | 07-18 |
+| 4 | [Image](https://steemit.com/travel/@tanveeran/image) | `[C C-I S O]` | Photography | 07-18 |
+
