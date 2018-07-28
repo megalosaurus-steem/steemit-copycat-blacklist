@@ -107,6 +107,8 @@ Reputation: **21**
 | 3 | [The House of Allah.. This is where Muslims perform Hajj and Umrah..](https://steemit.com/allah/@fatima1212/the-house-of-allah-this-is-where-muslims-perform-hajj-and-umrah-723811c0dffd7) | `[C C-I S O]` | Photography | 07-18 |
 | 4 | [Nice amazing photo I love Photogarphy because it's relation to the nature](https://steemit.com/photography/@fatima1212/nice-amazing-photo-i-love-photogarphy-because-it-s-relation-to-the-nature-2a26f1da6485a) | `[C C-I P S O]` | Photography | 07-18 |
 | 5 | [Beautiful nature ancient photography](https://steemit.com/nice/@fatima1212/beautiful-nature-ancient-photography-45d93e774c82a) | `[C C-I P S O]` | Photography | 07-18 |
+| 6 | [Beautiful flowers I love flowers because it's relation to the nature..](https://steemit.com/flowers/@fatima1212/beautiful-flowers-i-love-flowers-because-it-s-relation-to-the-nature-1c80382d178f2) | `[C C-I P S O]` | Photography | 07-18 |
+| 7 | [Beautiful sunshine moment amazing I love Photogarphy..](https://steemit.com/sunrise/@fatima1212/beautiful-sunshine-moment-amazing-i-love-photogarphy-e661fec5d46e8) | `[C C-I S O]` | Photography | 07-18 |
 
 ### [@googlenews](https://steemit.com/@googlenews)
 Reputation: **25**
@@ -314,6 +316,15 @@ Reputation: **40** (formerly 38)
 | 2 | [Mom](https://steemit.com/busy/@susan.steemit/mom) | `[C C-I S O]` | Meme | 07-18 |
 | 3 | [Teacher](https://steemit.com/busy/@susan.steemit/teacher) | `[C C-I S O]` | Meme | 07-18 |
 | 4 | [Super glue](https://steemit.com/busy/@susan.steemit/super-glue) | `[C C-I S O]` | Meme | 07-18 |
+
+### [@steem.gulraiz](https://steemit.com/@steem.gulraiz)
+Reputation: **35**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Fish aquarium](https://steemit.com/fishes/@steem.gulraiz/fish-aquarium-2018-07-20-07-40-36) | `[C C-I S O]` | Photography | 07-18 |
+| 2 | [Urdu poetry](https://steemit.com/poetry/@steem.gulraiz/urdu-poetry-2018-07-23-10-21-40) | `[C C-I S O]` | Photography | 07-18 |
+| 3 | [Beautifull Malaysia](https://steemit.com/photography/@steem.gulraiz/beautifull-malaysia-2018-07-26-17-27-06) | `[C C-I S O]` | Photography | 07-18 |
 
 ### [@tanveeran](https://steemit.com/@tanveeran)
 Reputation: **27**
