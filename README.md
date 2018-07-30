@@ -10,7 +10,7 @@ This GitHub repository is used to maintain a central public blacklist of identif
 ## Further information
 * [About my mission](https://steemit.com/steemitabuse/@megalosaurus/my-own-private-initiative-against-steemit-copycats)
 * [How I handle Steemit copycats](https://steemit.com/steemitabuse/@megalosaurus/how-i-handle-steemit-copycats)
-* [Megalosaurus Steemit original content rules violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26)
+* [Megalosaurus Steemit original content rules violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30)
 
 ## The blacklist
 ***Notes:***
@@ -19,7 +19,7 @@ This GitHub repository is used to maintain a central public blacklist of identif
 ### [@alluarjun](https://steemit.com/@alluarjun)
 Reputation: **37** (formerly 36)
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Ctrl](https://steemit.com/busy/@alluarjun/ctrl) | `[C C-I S O]` | Meme | 07-18 |
 | 2 | [sleepover](https://steemit.com/busy/@alluarjun/sleepover) | `[C C-I S O]` | Meme | 07-18 |
@@ -29,7 +29,7 @@ Reputation: **37** (formerly 36)
 ### [@alom23](https://steemit.com/@alom23)
 Reputation: **43** (formerly 42)
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [if you drink water standing, then the damage](https://steemit.com/busy/@alom23/if-you-drink-water-standing-then-the-damage) | `[C C-I C-GT S O]` | News article | 07-18 |
 | 2 | [I love Bangladesh](https://steemit.com/darthnava/@alom23/i-love-bangladesh) | `[C C-O C-I C-C S O]` | Images | 07-18 |
@@ -38,7 +38,7 @@ Reputation: **43** (formerly 42)
 ### [@ashir-zuhaib](https://steemit.com/@ashir-zuhaib)
 Reputation: **29**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | `*` [Government of Pakistan has announced eid holidays.](https://steemit.com/eid/@ashir-zuhaib/government-of-pakistan-has-announced-eid-holidays-062cb34cd72b9) | `[C C-I S O]` | Image | 06-18 |
 | 2 | `*` [Eidi should be like this](https://steemit.com/eidi/@ashir-zuhaib/eidi-should-be-like-this-b075149b75374) | `[C C-I C-I-M S O]` | Image | 06-18 |
@@ -47,7 +47,7 @@ Reputation: **29**
 ### [@butterfly08](https://steemit.com/@butterfly08)
 Reputation: **35**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Dukkah-rolled eggs with freekeh and beetroot](https://steemit.com/food/@butterfly08/5r8vzh-dukkah-rolled-eggs-with-freekeh-and-beetroot) | `[C C-I S O]` | Photo | 06-18 |
 | 2 | [Ice cream](https://steemit.com/food/@butterfly08/ice-cream) | `[C C-I S O]` | Photo | 06-18 |
@@ -57,7 +57,7 @@ Reputation: **35**
 ### [@danvil.identity](https://steemit.com/@danvil.identity)
 Reputation: **18** (formerly 34)
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [The dog that changed my life two years ago. We had a relaxing day on the coast today.](https://steemit.com/dog/@danvil.identity/the-dog-that-changed-my-life-two-years-ago-we-had-a-relaxing-day-on-the-coast-today) | `[C C-I P S O]` | Photography | 06-18 |
 | 2 | [My the best friend, really. Sorry mom and dad. <3](https://steemit.com/love/@danvil.identity/my-the-best-friend-really-sorry-mom-and-dad-3) | `[C C-I S O]` | Image | 06-18 |
@@ -77,7 +77,7 @@ Reputation: **18** (formerly 34)
 ### [@darpankurani](https://steemit.com/@darpankurani)
 Reputation: **25**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Wednesday - vehicle photography](https://steemit.com/contest/@darpankurani/6x95n6-wednesday-vehicle-photography) | `[C C-I P S O]` | Photography | 06-18 |
 | 2 | [Thursday - macrophotography](https://steemit.com/contest/@darpankurani/thursday-macrophotography) | `[C C-I P S O]` | Photography | 06-18 |
@@ -91,7 +91,7 @@ Reputation: **25**
 ### [@dilshan](https://steemit.com/@dilshan)
 Reputation: **25**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Good Morning](https://steemit.com/morring/@dilshan/good-morning) | `[C C-I S O]` | Image | 06-18 |
 | 2 | [Good Night](https://steemit.com/day/@dilshan/good-night) | `[C C-I S O]` | Image | 06-18 |
@@ -100,7 +100,7 @@ Reputation: **25**
 ### [@fatima1212](https://steemit.com/@fatima1212)
 Reputation: **21**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Good night my steemit friend.. I also love photography because photography is a name of art name of ...](https://steemit.com/night/@fatima1212/good-night-my-steemit-friend-i-also-love-photography-because-photography-is-a-name-of-art-name-of-practice-try-to-make-something-6b7f87e8af606) | `[C C-I P S O]` | Photography | 07-18 |
 | 2 | [Beautiful I also love photography because photography is a name of art name of practice try to make ...](https://steemit.com/photography/@fatima1212/beautiful-i-also-love-photography-because-photography-is-a-name-of-art-name-of-practice-try-to-make-something-new-something-5d094d66efddb) | `[C C-I P S O]` | Photography | 07-18 |
@@ -114,7 +114,7 @@ Reputation: **21**
 ### [@googlenews](https://steemit.com/@googlenews)
 Reputation: **25**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Photography](https://steemit.com/photography/@googlenews/6dfdgc-photography) | `[C C-I P O]` | Photography | 05-18 |
 | 2 | [Photography](https://steemit.com/photography/@googlenews/6mhube-photography) | `[C C-I P O]` | Photography | 06-18 |
@@ -126,7 +126,7 @@ Reputation: **25**
 ### [@hotnight](https://steemit.com/@hotnight)
 Reputation: **38**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Landscape Nature Sky Photography](https://steemit.com/busy/@alluarjun/ctrl) | `[C C-I P O]` | Free stock photo | 07-18 |
 | 2 | [Nature Landscape Photography](https://steemit.com/busy/@alluarjun/sleepover) | `[C C-I P O]` | Free stock photo | 07-18 |
@@ -142,7 +142,7 @@ Reputation: **38**
 ### [@inzouikroft](https://steemit.com/@inzouikroft)
 Reputation: **36** (formerly 35)
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/3jqjzs-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
 | 2 | [FOOTBAL](https://steemit.com/steem/@inzouikroft/6yaeji-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
@@ -154,7 +154,7 @@ Reputation: **36** (formerly 35)
 ### [@kdit](https://steemit.com/@kdit)
 Reputation: **39** (formerly 38)
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Thwip](https://steemit.com/busy/@kdit/thwip) | `[C C-I S O]` | Meme | 07-18 |
 | 2 | [Finally](https://steemit.com/busy/@kdit/finally) | `[C C-I S O]` | Meme | 07-18 |
@@ -164,7 +164,7 @@ Reputation: **39** (formerly 38)
 ### [@masudurrahman](https://steemit.com/@masudurrahman)
 Reputation: **27**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Swiss Roll](https://steemit.com/health/@masudurrahman/swiss-roll) | `[C C-I C-GT S O]` | Recipe | 05-18 |
 | 2 | [Yogurt fruit salad](https://steemit.com/food/@masudurrahman/yogurt-fruit-salad) | `[C C-I C-GT S O]` | Recipe | 05-18 |
@@ -176,7 +176,7 @@ Reputation: **27**
 ### [@mili2018](https://steemit.com/@mili2018)
 Reputation: **34**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Zidane: "I made the decision not to continue next year at Real Madrid"](https://steemit.com/sports/@mili2018/zidane-i-made-the-decision-not-to-continue-next-year-at-real-madrid) | `[C C-I C-GT C-RM S O]` | Sports | 05-18 |
 | 2 | [Belgium's beauty of nature: #TQ by night.](https://steemit.com/photography/@mili2018/belgium-s-beauty-of-nature-tq-by-night) | `[C C-I P S O]` | Photography | 06-18 |
@@ -190,7 +190,7 @@ Reputation: **34**
 ### [@najuz](https://steemit.com/@najuz)
 Reputation: **39**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [The 'gangster' of the helicopter turned upside down from jail](https://steemit.com/gangster/@najuz/the-gangster-of-the-helicopter-turned-upside-down-from-jail) | `[C C-I C-GT S O]` | News article | 07-18 |
 | 2 | [Apple is making newer improved maps](https://steemit.com/apple/@najuz/apple-is-making-newer-improved-maps) | `[C C-I C-GT S O]` | News article | 07-18 |
@@ -204,7 +204,7 @@ Reputation: **39**
 ### [@pritidkurani](https://steemit.com/@pritidkurani)
 Reputation: **32**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Monsoon - 2 Dark forms of Nature..](https://steemit.com/photography/@pritidkurani/monsoon-2-dark-forms-of-nature) | `[C C-I P S O]` | Photography | 06-18 |
 | 2 | [Wednesday - Architectural Photography](https://steemit.com/contest/@pritidkurani/43a4vk-wednesday-architectural-photography) | `[C C-I P S O]` | Photography | 06-18 |
@@ -224,7 +224,7 @@ Reputation: **32**
 ### [@raselcom](https://steemit.com/@raselcom)
 Reputation: **31** (formerly 35)
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [NEW HILARIOUSLY SUPERHERO – MARVEL & DC FUNNY SUPERHERO COMICS 2018](https://steemit.com/busy/@inzouikroft/3jqjzs-footbal) | `[C C-I S O]` | Images: Comics | 06-18 |
 | 2 | [Amid tensions, all G-7 members sign statement](https://steemit.com/steem/@inzouikroft/6yaeji-footbal) | `[C C-I S O]` | News | 06-18 |
@@ -244,7 +244,7 @@ Reputation: **31** (formerly 35)
 ### [@rayed](https://steemit.com/@rayed)
 Reputation: **38** (formerly 27)
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Goodnight Everyone](https://steemit.com/life/@rayed/goodnight-everyone) | `[C C-I P S O]` | Art | 06-18 |
 | 2 | `*` [Best motivation word spoken!](https://steemit.com/life/@rayed/best-motivation-word-spoken) | `[C C-I P S O]` | Art | 06-18 |
@@ -259,7 +259,7 @@ Reputation: **38** (formerly 27)
 ### [@rupas](https://steemit.com/@rupas)
 Reputation: **29**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Expectation & Reality 15](https://steemit.com/reality/@rupas/expectation-and-reality-15) | `[C C-I S O]` | Meme | 06-18 |
 | 2 | [Expectation & Reality 16](https://steemit.com/reality/@rupas/expectation-and-reality-16) | `[C C-I S O]` | Meme | 06-18 |
@@ -268,7 +268,7 @@ Reputation: **29**
 ### [@saidul-islam](https://steemit.com/@saidul-islam)
 Reputation: **36** (formerly 35)
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Preparations before Eid](https://steemit.com/busy/@saidul-islam/preparations-before-eid) | `[C C-I C-GT S O]` | News-Report | 06-18 |
 | 2 | [The bumper crop also results in farmers' appalling](https://steemit.com/melip/@saidul-islam/4b6hkw-the-bumper-crop-also-results-in-farmers-appalling) | `[C C-I C-GT S O]` | News-Report | 06-18 |
@@ -288,7 +288,7 @@ Reputation: **36** (formerly 35)
 ### [@salko123](https://steemit.com/@salko123)
 Reputation: **28**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Summer Small Pet Cat Dog thanks teenage mutant ninja turtles Vest Clothing Costumes Dog](https://steemit.com/cn/@salko123/summer-small-pet-cat-dog-thanks-teenage-mutant-ninja-turtles-vest-clothing-costumes-dog) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
 | 2 | [Forbidden Steak found in Istanbul](https://steemit.com/photography/@salko123/forbidden-steak-found-in-istanbul) | `[C C-I S O]` | Reddit-Image-Post | 06-18 |
@@ -300,7 +300,7 @@ Reputation: **28**
 ### [@saraheasy](https://steemit.com/@saraheasy)
 Reputation: **39**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Dahlias Bud Flower Photography](https://steemit.com/photography/@saraheasy/dahlias-bud-flower-photography) | `[C C-I P O]` | Free stock photo | 07-18 |
 | 2 | [Snow Landscape White Winter Trees Photography](https://steemit.com/photography/@saraheasy/snow-landscape-white-winter-trees-photography) | `[C C-I P O]` | Free stock photo | 07-18 |
@@ -311,7 +311,7 @@ Reputation: **39**
 ### [@susan.steemit](https://steemit.com/@susan.steemit)
 Reputation: **40** (formerly 38)
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Edge](https://steemit.com/funny/@susan.steemit/edge) | `[C C-I S O]` | Meme | 07-18 |
 | 2 | [Mom](https://steemit.com/busy/@susan.steemit/mom) | `[C C-I S O]` | Meme | 07-18 |
@@ -321,7 +321,7 @@ Reputation: **40** (formerly 38)
 ### [@steem.gulraiz](https://steemit.com/@steem.gulraiz)
 Reputation: **35**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Fish aquarium](https://steemit.com/fishes/@steem.gulraiz/fish-aquarium-2018-07-20-07-40-36) | `[C C-I S O]` | Photography | 07-18 |
 | 2 | [Urdu poetry](https://steemit.com/poetry/@steem.gulraiz/urdu-poetry-2018-07-23-10-21-40) | `[C C-I S O]` | Photography | 07-18 |
@@ -330,10 +330,9 @@ Reputation: **35**
 ### [@tanveeran](https://steemit.com/@tanveeran)
 Reputation: **27**
 
-| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-06-26) | Topic | Month |
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [photogrphy](https://steemit.com/night/@fatima1212/good-night-my-steemit-friend-i-also-love-photography-because-photography-is-a-name-of-art-name-of-practice-try-to-make-something-6b7f87e8af606) | `[C C-I P S O]` | Photography | 07-18 |
 | 2 | [photography](https://steemit.com/photography/@fatima1212/beautiful-i-also-love-photography-because-photography-is-a-name-of-art-name-of-practice-try-to-make-something-new-something-5d094d66efddb) | `[C C-I S O]` | Photography | 07-18 |
 | 3 | [Artphotography](https://steemit.com/allah/@fatima1212/the-house-of-allah-this-is-where-muslims-perform-hajj-and-umrah-723811c0dffd7) | `[C C-I P S O]` | Photography | 07-18 |
 | 4 | [Image](https://steemit.com/travel/@tanveeran/image) | `[C C-I S O]` | Photography | 07-18 |
-
