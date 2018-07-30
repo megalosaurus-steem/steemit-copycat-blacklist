@@ -17,7 +17,7 @@ This GitHub repository is used to maintain a central public blacklist of identif
 * `*` marks posts which have been edited by the author to comply with Steemit original content rules after I have commented on them.
 
 ### [@alluarjun](https://steemit.com/@alluarjun)
-Reputation: **37** (formerly 36)
+Reputation: **40** (formerly 36)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -27,7 +27,7 @@ Reputation: **37** (formerly 36)
 | 4 | [Drive](https://steemit.com/busy/@alluarjun/acjvs-drive) | `[C C-I S O]` | Meme | 07-18 |
 
 ### [@alom23](https://steemit.com/@alom23)
-Reputation: **43** (formerly 42)
+Reputation: **44** (formerly 42)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -96,9 +96,12 @@ Reputation: **25**
 | 1 | [Good Morning](https://steemit.com/morring/@dilshan/good-morning) | `[C C-I S O]` | Image | 06-18 |
 | 2 | [Good Night](https://steemit.com/day/@dilshan/good-night) | `[C C-I S O]` | Image | 06-18 |
 | 3 | [Jay Sean Down](https://steemit.com/music/@dilshan/jay-sean-down-b7d36cf7ccd1c) | `[C S O]` | Song lyrics | 07-18 |
+| 4 | [Natural](https://steemit.com/natural/@dilshan/natural-de6f7f5219943) | `[C C-I P S O]` | Image: Food | 07-18 |
+| 5 | [Arts](https://steemit.com/natural/@dilshan/arts-7d5ff19f3b09b) | `[C C-I T-A P S O]` | Image: Food | 07-18 |
+| 6 | [Natural](https://steemit.com/natural/@dilshan/natural-5ac43a452e99a) | `[C C-I P S O]` | Image: Food | 07-18 |
 
 ### [@fatima1212](https://steemit.com/@fatima1212)
-Reputation: **21**
+Reputation: **16** (formerly 21)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -152,7 +155,7 @@ Reputation: **36** (formerly 35)
 | 6 | [FOOTBAL](https://steemit.com/busy/@inzouikroft/xqsf7-footbal) | `[C C-I S O]` | Image: Soccer | 06-18 |
 
 ### [@kdit](https://steemit.com/@kdit)
-Reputation: **39** (formerly 38)
+Reputation: **40** (formerly 38)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -242,7 +245,7 @@ Reputation: **31** (formerly 35)
 *More than 10 illicit posts. Other posts: [(11)](https://steemit.com/busy/@raselcom/maquiagem-com-sombra-vermelha-perca-o-medo-e-veja-como-usar-sombra-vermelha-laranja-e-dourada-maquiagem-com-sombra-vermelha), [(12)](https://steemit.com/busy/@raselcom/7-amazing-things-that-will-happen-when-you-do-plank-every-day)*
 
 ### [@rayed](https://steemit.com/@rayed)
-Reputation: **38** (formerly 27)
+Reputation: **40** (formerly 27)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -266,7 +269,7 @@ Reputation: **29**
 | 3 | [Expectation & Reality 17](https://steemit.com/expectation/@rupas/expectation-and-reality-17) | `[C C-I S O]` | Meme | 06-18 |
 
 ### [@saidul-islam](https://steemit.com/@saidul-islam)
-Reputation: **36** (formerly 35)
+Reputation: **39** (formerly 35)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -283,7 +286,7 @@ Reputation: **36** (formerly 35)
 | ...
 | = | **11 in total**
 
-*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/poem/@saidul-islam/3nejed)*
+*More than 10 illicit posts. Other posts: [(11)](https://steemit.com/poem/@saidul-islam/3nejed), [(12)](https://steemit.com/nature/@saidul-islam/3uejgp-my-nature-photography)*
 
 ### [@salko123](https://steemit.com/@salko123)
 Reputation: **28**
@@ -298,7 +301,7 @@ Reputation: **28**
 | 6 | [Picture of my friend’s bird, thought it looked fake.](https://steemit.com/photography/@salko123/picture-of-my-friend-s-bird-thought-it-looked-fake) | `[C C-I P S O]` | Reddit-Image-Post | 06-18 |
 
 ### [@saraheasy](https://steemit.com/@saraheasy)
-Reputation: **39**
+Reputation: **40** (formerly 39)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -326,9 +329,10 @@ Reputation: **35**
 | 1 | [Fish aquarium](https://steemit.com/fishes/@steem.gulraiz/fish-aquarium-2018-07-20-07-40-36) | `[C C-I S O]` | Photography | 07-18 |
 | 2 | [Urdu poetry](https://steemit.com/poetry/@steem.gulraiz/urdu-poetry-2018-07-23-10-21-40) | `[C C-I S O]` | Photography | 07-18 |
 | 3 | [Beautifull Malaysia](https://steemit.com/photography/@steem.gulraiz/beautifull-malaysia-2018-07-26-17-27-06) | `[C C-I S O]` | Photography | 07-18 |
+| 4 | [Thats most coloured forests](https://steemit.com/photography/@steem.gulraiz/thats-most-coloured-forests-2018-07-29-18-44-30) | `[C C-I T-A P S O]` | Photography | 07-18 |
 
 ### [@tanveeran](https://steemit.com/@tanveeran)
-Reputation: **27**
+Reputation: **34** (formerly 27)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -336,3 +340,4 @@ Reputation: **27**
 | 2 | [photography](https://steemit.com/photography/@fatima1212/beautiful-i-also-love-photography-because-photography-is-a-name-of-art-name-of-practice-try-to-make-something-new-something-5d094d66efddb) | `[C C-I S O]` | Photography | 07-18 |
 | 3 | [Artphotography](https://steemit.com/allah/@fatima1212/the-house-of-allah-this-is-where-muslims-perform-hajj-and-umrah-723811c0dffd7) | `[C C-I P S O]` | Photography | 07-18 |
 | 4 | [Image](https://steemit.com/travel/@tanveeran/image) | `[C C-I S O]` | Photography | 07-18 |
+| 5 | [Inphotographer](https://steemit.com/bitcoin/@tanveeran/inphotographer) | `[C C-I P S O]` | Photography | 07-18 |
