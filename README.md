@@ -258,6 +258,7 @@ Reputation: **40** (formerly 27)
 | 7 | [PAYERA REVIEW](https://steemit.com/crytocurrency/@rayed/2gmj6e-payera-review) | `[C C-O S O]` | Crypto-ICO | 07-18 |
 | 8 | [KONIOS ICO REVIEW](https://steemit.com/crytocurrency/@rayed/konios-ico-review) | `[C C-I C-RM C-RS C-C S O]` | Crypto-ICO | 07-18 |
 | 9 | [Sgame Pro - PLAY MOBILE GAMES MINE CRYPTO-TOKENS EARN REAL MONEY](https://steemit.com/crytocurrency/@rayed/sgame-pro-play-mobile-games-mine-crypto-tokens-earn-real-money) | `[C C-I C-RM C-RS C-C S O]` | Crypto-ICO | 07-18 |
+| 10 | [INGOT COIN ICO REVIEW](https://steemit.com/crytocurrency/@rayed/ingot-coin-ico-review) | `[C C-I C-RM C-RS C-C P S O]` | Crypto-ICO | 07-18 |
 
 ### [@rupas](https://steemit.com/@rupas)
 Reputation: **29**
@@ -341,3 +342,4 @@ Reputation: **34** (formerly 27)
 | 3 | [Artphotography](https://steemit.com/allah/@fatima1212/the-house-of-allah-this-is-where-muslims-perform-hajj-and-umrah-723811c0dffd7) | `[C C-I P S O]` | Photography | 07-18 |
 | 4 | [Image](https://steemit.com/travel/@tanveeran/image) | `[C C-I S O]` | Photography | 07-18 |
 | 5 | [Inphotographer](https://steemit.com/bitcoin/@tanveeran/inphotographer) | `[C C-I P S O]` | Photography | 07-18 |
+| 6 | [Inphotographer](Inpakisantphotography) | `[C C-I P S O]` | Photography | 07-18 |
