@@ -164,6 +164,15 @@ Reputation: **40** (formerly 38)
 | 3 | [Sign](https://steemit.com/busy/@kdit/sign) | `[C C-I S O]` | Meme | 07-18 |
 | 4 | [Success](https://steemit.com/busy/@kdit/success) | `[C C-I S O]` | Quotes | 07-18 |
 
+### [@luckys](https://steemit.com/@luckys)
+Reputation: **41**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Implementation of Vastu Shastra Can Make better life!!](https://steemit.com/life/@luckys/implementation-of-vastu-shastra-can-make-better-life) | `[C C-I C-RM P S O]` | Report | 07-18 |
+| 2 | `*` [Happy Rainy days!!](https://steemit.com/life/@luckys/happy-rainy-days) | `[C C-I P S O]` | Picture | 07-18 |
+| 3 | [Rainy heart!!](https://steemit.com/life/@luckys/rainy-heart) | `[C C-I P O]` | Picture | 08-18 |
+
 ### [@masudurrahman](https://steemit.com/@masudurrahman)
 Reputation: **27**
 
@@ -342,4 +351,6 @@ Reputation: **34** (formerly 27)
 | 3 | [Artphotography](https://steemit.com/allah/@fatima1212/the-house-of-allah-this-is-where-muslims-perform-hajj-and-umrah-723811c0dffd7) | `[C C-I P S O]` | Photography | 07-18 |
 | 4 | [Image](https://steemit.com/travel/@tanveeran/image) | `[C C-I S O]` | Photography | 07-18 |
 | 5 | [Inphotographer](https://steemit.com/bitcoin/@tanveeran/inphotographer) | `[C C-I P S O]` | Photography | 07-18 |
-| 6 | [Inphotographer](Inpakisantphotography) | `[C C-I P S O]` | Photography | 07-18 |
+| 6 | [Inpakisantphotography](https://steemit.com/travel/@tanveeran/inpakisantphotography) | `[C C-I P S O]` | Photography | 07-18 |
+| 7 | [Art](https://steemit.com/art/@tanveeran/art) | `[C C-I T-A P S O]` | Photography | 08-18 |
+
