@@ -353,4 +353,7 @@ Reputation: **34** (formerly 27)
 | 5 | [Inphotographer](https://steemit.com/bitcoin/@tanveeran/inphotographer) | `[C C-I P S O]` | Photography | 07-18 |
 | 6 | [Inpakisantphotography](https://steemit.com/travel/@tanveeran/inpakisantphotography) | `[C C-I P S O]` | Photography | 07-18 |
 | 7 | [Art](https://steemit.com/art/@tanveeran/art) | `[C C-I T-A P S O]` | Photography | 08-18 |
+| 8 | [Park](https://steemit.com/travel/@tanveeran/park) | `[C C-I C-C P S O]` | Photography | 08-18 |
+| 9 | [Park](https://steemit.com/travel/@tanveeran/7fsbdj-park) | `[C C-I C-C P S O]` | Photography | 08-18 |
+| 10 | [In bitcoin](https://steemit.com/inbitcoin/@tanveeran/in-bitcoin) | `[C C-I C-C P S O]` | Report: crypto | 08-18 |
 
