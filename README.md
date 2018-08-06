@@ -127,7 +127,7 @@ Reputation: **25**
 | 6 | [Photography](https://steemit.com/photography/@googlenews/3xbd2q-photography) | `[C C-I P O]` | Photography | 06-18 |
 
 ### [@hotnight](https://steemit.com/@hotnight)
-Reputation: **38**
+Reputation: **39** (formerly 38)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -165,7 +165,7 @@ Reputation: **40** (formerly 38)
 | 4 | [Success](https://steemit.com/busy/@kdit/success) | `[C C-I S O]` | Quotes | 07-18 |
 
 ### [@luckys](https://steemit.com/@luckys)
-Reputation: **41**
+Reputation: **43** (formerly 41)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -254,7 +254,7 @@ Reputation: **31** (formerly 35)
 *More than 10 illicit posts. Other posts: [(11)](https://steemit.com/busy/@raselcom/maquiagem-com-sombra-vermelha-perca-o-medo-e-veja-como-usar-sombra-vermelha-laranja-e-dourada-maquiagem-com-sombra-vermelha), [(12)](https://steemit.com/busy/@raselcom/7-amazing-things-that-will-happen-when-you-do-plank-every-day)*
 
 ### [@rayed](https://steemit.com/@rayed)
-Reputation: **40** (formerly 27)
+Reputation: **36** (formerly 27)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -270,7 +270,7 @@ Reputation: **40** (formerly 27)
 | 10 | [INGOT COIN ICO REVIEW](https://steemit.com/crytocurrency/@rayed/ingot-coin-ico-review) | `[C C-I C-RM C-RS C-C P S O]` | Crypto-ICO | 07-18 |
 
 ### [@rupas](https://steemit.com/@rupas)
-Reputation: **29**
+Reputation: **30** (formerly 29)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -279,7 +279,7 @@ Reputation: **29**
 | 3 | [Expectation & Reality 17](https://steemit.com/expectation/@rupas/expectation-and-reality-17) | `[C C-I S O]` | Meme | 06-18 |
 
 ### [@saidul-islam](https://steemit.com/@saidul-islam)
-Reputation: **39** (formerly 35)
+Reputation: **40** (formerly 35)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -311,7 +311,7 @@ Reputation: **28**
 | 6 | [Picture of my friend’s bird, thought it looked fake.](https://steemit.com/photography/@salko123/picture-of-my-friend-s-bird-thought-it-looked-fake) | `[C C-I P S O]` | Reddit-Image-Post | 06-18 |
 
 ### [@saraheasy](https://steemit.com/@saraheasy)
-Reputation: **40** (formerly 39)
+Reputation: **41** (formerly 39)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -342,7 +342,7 @@ Reputation: **35**
 | 4 | [Thats most coloured forests](https://steemit.com/photography/@steem.gulraiz/thats-most-coloured-forests-2018-07-29-18-44-30) | `[C C-I T-A P S O]` | Photography | 07-18 |
 
 ### [@tanveeran](https://steemit.com/@tanveeran)
-Reputation: **34** (formerly 27)
+Reputation: **10** (formerly 34)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
