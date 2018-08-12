@@ -190,9 +190,9 @@ Reputation: **43**
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
-| 1 | [INNSBRUCK, AUSTRIA : TYROLEAN FOLK SHOW ,one of the oldest folk show in Europe:](https://steemit.com/busy/@inzouikroft/3jqjzs-footbal) | `[C C-I C-RM C-C P S O]` | Travel guide | 08-18 |
-| 2 | [Artificial small town : Full country visit in a Day Madurodam : Netherland](https://steemit.com/steem/@inzouikroft/6yaeji-footbal) | `[C C-I C-RM C-C P S O]` | Travel guide | 08-18 |
-| 3 | [Gurudongmar Lake: This High Altitude Lake In Sikkim Is A Dream Destination](https://steemit.com/busy/@inzouikroft/5n2jlg-footbal) | `[C C-I C-RM C-RS C-C P S O]` | Travel guide | 08-18 |
+| 1 | [INNSBRUCK, AUSTRIA : TYROLEAN FOLK SHOW ,one of the oldest folk show in Europe:](https://steemit.com/travel/@mihirbarot/innsbruck-austria-tyrolean-folk-show-one-of-the-oldest-folk-show-in-europe) | `[C C-I C-RM C-C P S O]` | Travel guide | 08-18 |
+| 2 | [Artificial small town : Full country visit in a Day Madurodam : Netherland](https://steemit.com/travel/@mihirbarot/artificial-small-town-full-country-visit-in-a-day-madurodam-netherland) | `[C C-I C-RM C-C P S O]` | Travel guide | 08-18 |
+| 3 | [Gurudongmar Lake: This High Altitude Lake In Sikkim Is A Dream Destination](https://steemit.com/travel/@mihirbarot/gurudongmar-lake-this-high-altitude-lake-in-sikkim-is-a-dream-destination) | `[C C-I C-RM C-RS C-C P S O]` | Travel guide | 08-18 |
 
 ### [@mili2018](https://steemit.com/@mili2018)
 Reputation: **34**
