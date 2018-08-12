@@ -185,6 +185,15 @@ Reputation: **27**
 | 5 | [Recipe: Biryani](https://steemit.com/food/@masudurrahman/recipe-biryani) | `[C C-GT S O]` | Recipe | 06-18 |
 | 6 | [Recipe: Biryani](https://steemit.com/health/@masudurrahman/2wvtng-recipe-biryani) | `[C C-I C-GT S O]` | Recipe | 06-18 |
 
+### [@mihirbarot](https://steemit.com/@mihirbarot)
+Reputation: **43**
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [INNSBRUCK, AUSTRIA : TYROLEAN FOLK SHOW ,one of the oldest folk show in Europe:](https://steemit.com/busy/@inzouikroft/3jqjzs-footbal) | `[C C-I C-RM C-C P S O]` | Travel guide | 08-18 |
+| 2 | [Artificial small town : Full country visit in a Day Madurodam : Netherland](https://steemit.com/steem/@inzouikroft/6yaeji-footbal) | `[C C-I C-RM C-C P S O]` | Travel guide | 08-18 |
+| 3 | [Gurudongmar Lake: This High Altitude Lake In Sikkim Is A Dream Destination](https://steemit.com/busy/@inzouikroft/5n2jlg-footbal) | `[C C-I C-RM C-RS C-C P S O]` | Travel guide | 08-18 |
+
 ### [@mili2018](https://steemit.com/@mili2018)
 Reputation: **34**
 
