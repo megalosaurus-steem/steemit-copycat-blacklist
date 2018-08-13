@@ -27,7 +27,7 @@ Reputation: **40** (formerly 36)
 | 4 | [Drive](https://steemit.com/busy/@alluarjun/acjvs-drive) | `[C C-I S O]` | Meme | 07-18 |
 
 ### [@alom23](https://steemit.com/@alom23)
-Reputation: **44** (formerly 42)
+Reputation: **45** (formerly 42)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -143,7 +143,7 @@ Reputation: **39** (formerly 38)
 | 10 | [Roadway Autumn Landscape Photography](https://steemit.com/photography/@hotnight/roadway-autumn-landscape-photography) | `[C C-I O]` | Free stock photo | 07-18 |
 
 ### [@inzouikroft](https://steemit.com/@inzouikroft)
-Reputation: **36** (formerly 35)
+Reputation: **37** (formerly 35)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -165,7 +165,7 @@ Reputation: **40** (formerly 38)
 | 4 | [Success](https://steemit.com/busy/@kdit/success) | `[C C-I S O]` | Quotes | 07-18 |
 
 ### [@luckys](https://steemit.com/@luckys)
-Reputation: **43** (formerly 41)
+Reputation: **44** (formerly 41)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -186,13 +186,13 @@ Reputation: **27**
 | 6 | [Recipe: Biryani](https://steemit.com/health/@masudurrahman/2wvtng-recipe-biryani) | `[C C-I C-GT S O]` | Recipe | 06-18 |
 
 ### [@mihirbarot](https://steemit.com/@mihirbarot)
-Reputation: **43**
+Reputation: **33** (formerly 43)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
-| 1 | [INNSBRUCK, AUSTRIA : TYROLEAN FOLK SHOW ,one of the oldest folk show in Europe:](https://steemit.com/travel/@mihirbarot/innsbruck-austria-tyrolean-folk-show-one-of-the-oldest-folk-show-in-europe) | `[C C-I C-RM C-C P S O]` | Travel guide | 08-18 |
-| 2 | [Artificial small town : Full country visit in a Day Madurodam : Netherland](https://steemit.com/travel/@mihirbarot/artificial-small-town-full-country-visit-in-a-day-madurodam-netherland) | `[C C-I C-RM C-C P S O]` | Travel guide | 08-18 |
-| 3 | [Gurudongmar Lake: This High Altitude Lake In Sikkim Is A Dream Destination](https://steemit.com/travel/@mihirbarot/gurudongmar-lake-this-high-altitude-lake-in-sikkim-is-a-dream-destination) | `[C C-I C-RM C-RS C-C P S O]` | Travel guide | 08-18 |
+| 1 | `*` [INNSBRUCK, AUSTRIA : TYROLEAN FOLK SHOW ,one of the oldest folk show in Europe:](https://steemit.com/travel/@mihirbarot/innsbruck-austria-tyrolean-folk-show-one-of-the-oldest-folk-show-in-europe) | `[C C-I C-RM C-C P S O]` | Travel guide | 08-18 |
+| 2 | `*` [Artificial small town : Full country visit in a Day Madurodam : Netherland](https://steemit.com/travel/@mihirbarot/artificial-small-town-full-country-visit-in-a-day-madurodam-netherland) | `[C C-I C-RM C-C P S O]` | Travel guide | 08-18 |
+| 3 | `*` [Gurudongmar Lake: This High Altitude Lake In Sikkim Is A Dream Destination](https://steemit.com/travel/@mihirbarot/gurudongmar-lake-this-high-altitude-lake-in-sikkim-is-a-dream-destination) | `[C C-I C-RM C-RS C-C P S O]` | Travel guide | 08-18 |
 
 ### [@mili2018](https://steemit.com/@mili2018)
 Reputation: **34**
