@@ -103,6 +103,9 @@ Reputation: **25**
 ### [@fatima1212](https://steemit.com/@fatima1212)
 Reputation: **16** (formerly 21)
 
+Notes:
+* This user has repeatedly claimed the content he copy/paasted was his own work without being able to disprove evidence that it isn’t, and has flagged my comments: [(1)](https://steemit.com/night/@megalosaurus/re-fatima1212-re-megalosaurus-re-fatima1212-good-night-my-steemit-friend-i-also-love-photography-because-photography-is-a-name-of-art-name-of-practice-try-to-make-something-6b7f87e8af606-20180725t202337155z), [(2)](https://steemit.com/nice/@megalosaurus/re-fatima1212-re-megalosaurus-re-fatima1212-beautiful-nature-ancient-photography-45d93e774c82a-20180727t215509635z)
+
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Good night my steemit friend.. I also love photography because photography is a name of art name of ...](https://steemit.com/night/@fatima1212/good-night-my-steemit-friend-i-also-love-photography-because-photography-is-a-name-of-art-name-of-practice-try-to-make-something-6b7f87e8af606) | `[C C-I P S O]` | Photography | 07-18 |
@@ -144,6 +147,9 @@ Reputation: **39** (formerly 38)
 
 ### [@inzouikroft](https://steemit.com/@inzouikroft)
 Reputation: **37** (formerly 35)
+
+Notes:
+* This user has also [flagged by posts / comments](https://steemit.com/steemitabuse/@megalosaurus/i-m-publicly-exposing-inzouikroft-as-a-semi-professional-steemit-copycat) [without explanation](https://steemit.com/busy/@megalosaurus/re-inzouikroft-re-megalosaurus-re-inzouikroft-72lajf-footbal-20180614t181410567z).
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -187,6 +193,9 @@ Reputation: **27**
 
 ### [@mihirbarot](https://steemit.com/@mihirbarot)
 Reputation: **33** (formerly 43)
+
+Notes:
+* This user is also committing bid bot abuse: [(1)](https://steemit.com/india/@mihirbarot/indian-independence-day-15th-august-jai-hind).
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -265,6 +274,9 @@ Reputation: **31** (formerly 35)
 ### [@rayed](https://steemit.com/@rayed)
 Reputation: **36** (formerly 27)
 
+Notes:
+* This user has repeatedly shown lack of understanding of Steemit community rules and refused to delete illicit content: [(1)](https://steemit.com/cryptocurrency/@rayed/konios#@rayed/re-megalosaurus-re-rayed-konios-20180623t065911795z), [(2)](https://steemit.com/crytocurrency/@rayed/qurrex-first-hybrid-cryptocurrency-exchange#@rayed/re-megalosaurus-re-rayed-qurrex-first-hybrid-cryptocurrency-exchange-20180609t175023368z)
+
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Goodnight Everyone](https://steemit.com/life/@rayed/goodnight-everyone) | `[C C-I P S O]` | Art | 06-18 |
@@ -289,6 +301,9 @@ Reputation: **30** (formerly 29)
 
 ### [@saidul-islam](https://steemit.com/@saidul-islam)
 Reputation: **40** (formerly 35)
+
+Notes:
+* This user has been [begging for flag removal](https://steemit.com/melip/@saidul-islam/re-megalosaurus-re-saidul-islam-when-drinking-water-can-be-damaged-20180624t020601064z) [without showing any understanding of Steemit community rules](https://steemit.com/busy/@saidul-islam/re-megalosaurus-re-saidul-islam-original-bill-photography-by-me-26-6-2018-20180627t033320202z).
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
