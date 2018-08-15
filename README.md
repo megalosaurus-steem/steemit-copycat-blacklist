@@ -173,6 +173,9 @@ Reputation: **40** (formerly 38)
 ### [@luckys](https://steemit.com/@luckys)
 Reputation: **44** (formerly 41)
 
+Notes:
+* This user is also committing bid bot abuse: [(1)](https://steemit.com/life/@luckys/diamond-farm).
+
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
 | 1 | [Implementation of Vastu Shastra Can Make better life!!](https://steemit.com/life/@luckys/implementation-of-vastu-shastra-can-make-better-life) | `[C C-I C-RM P S O]` | Report | 07-18 |
@@ -364,6 +367,18 @@ Reputation: **35**
 | 2 | [Urdu poetry](https://steemit.com/poetry/@steem.gulraiz/urdu-poetry-2018-07-23-10-21-40) | `[C C-I S O]` | Photography | 07-18 |
 | 3 | [Beautifull Malaysia](https://steemit.com/photography/@steem.gulraiz/beautifull-malaysia-2018-07-26-17-27-06) | `[C C-I S O]` | Photography | 07-18 |
 | 4 | [Thats most coloured forests](https://steemit.com/photography/@steem.gulraiz/thats-most-coloured-forests-2018-07-29-18-44-30) | `[C C-I T-A P S O]` | Photography | 07-18 |
+
+### [@steem.moon](https://steemit.com/@steem.moon)
+Reputation: **45**
+
+Notes:
+* This user [has claimed to change his behavior in the future, but has broken his word and shown no interest in Steemit community rules](https://steemit.com/esteem/@steem.moon/yummy-chocolatees#@steem.moon/re-megalosaurus-re-steemmoon-yummy-chocolatees-20180808t074233849z).
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [Beautifull fish](https://steemit.com/esteem/@steem.moon/gaint-grouper-swimming-among-schools-of-other-fish-d1f43b8ff1159) | `[C C-I S O]` | Photography | 08-18 |
+| 2 | [Yummy chocolatees](https://steemit.com/esteem/@steem.moon/yummy-chocolatees) | `[C C-I C-C P S O]` | Photography | 08-18 |
+| 3 | [Beautiful theme](https://steemit.com/partiko/@steem.moon/beautiful-theme) | `[C C-I P S O]` | Photography | 08-18 |
 
 ### [@tanveeran](https://steemit.com/@tanveeran)
 Reputation: **10** (formerly 34)
