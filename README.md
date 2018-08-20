@@ -7,6 +7,18 @@ I have created the account **[@megalosaurus](https://steemit.com/@megalosaurus)*
 
 This GitHub repository is used to maintain a central public blacklist of identified copycats. Other Steemit users may use this list to actively engage these malicious accounts by commenting on, reporting, or flagging their abusive content.
 
+---
+
+![Website shields.io](https://img.shields.io/badge/status-PAUSED-red.svg)
+
+**COPYCAT HUNTING STATUS: PAUSED**
+
+This project is currently on hold, until further notice. ([announcement post on Steemit](https://steemit.com/blog/@megalosaurus/update-2018-08-20-steemit-copycat-hunting-halted))
+
+Please watch this GitHub page and [my Steemit blog](https://steemit.com/@megalosaurus) for any further announcements.
+
+---
+
 ## Further information
 * [About my mission](https://steemit.com/steemitabuse/@megalosaurus/my-own-private-initiative-against-steemit-copycats)
 * [How I handle Steemit copycats](https://steemit.com/steemitabuse/@megalosaurus/how-i-handle-steemit-copycats)
