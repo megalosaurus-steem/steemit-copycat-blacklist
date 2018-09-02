@@ -21,7 +21,7 @@ Please watch this GitHub page and [my Steemit blog](https://steemit.com/@megalos
 
 ## Further information
 * [About my mission](https://steemit.com/steemitabuse/@megalosaurus/my-own-private-initiative-against-steemit-copycats)
-* [How I handle Steemit copycats](https://steemit.com/steemitabuse/@megalosaurus/how-i-handle-steemit-copycats)
+* [How I handle Steemit copycats](https://steemit.com/steemitabuse/@megalosaurus/my-steemit-anti-copycat-plagiarist-campaign-mission-update-18-09-02)
 * [Megalosaurus Steemit original content rules violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30)
 
 ## The blacklist
