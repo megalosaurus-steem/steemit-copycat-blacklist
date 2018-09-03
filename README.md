@@ -45,7 +45,7 @@ Reputation: **45** (formerly 42)
 | -: | - | - | - | - |
 | 1 | [if you drink water standing, then the damage](https://steemit.com/busy/@alom23/if-you-drink-water-standing-then-the-damage) | `[C C-I C-GT S O]` | News article | 07-18 |
 | 2 | [I love Bangladesh](https://steemit.com/darthnava/@alom23/i-love-bangladesh) | `[C C-O C-I C-C S O]` | Images | 07-18 |
-| 3 | [My birds art](https://steemit.com/busy/@alluarjun/guess) | `[C C-O C-I C-I-M S O]` | Images: Clip art | 07-18 |
+| 3 | [My birds art](https://steemit.com/darthnava/@alom23/my-birds-art) | `[C C-O C-I C-I-M S O]` | Images: Clip art | 07-18 |
 
 ### [@ashir-zuhaib](https://steemit.com/@ashir-zuhaib)
 Reputation: **29**
@@ -146,9 +146,9 @@ Reputation: **39** (formerly 38)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
-| 1 | [Landscape Nature Sky Photography](https://steemit.com/busy/@alluarjun/ctrl) | `[C C-I P O]` | Free stock photo | 07-18 |
-| 2 | [Nature Landscape Photography](https://steemit.com/busy/@alluarjun/sleepover) | `[C C-I P O]` | Free stock photo | 07-18 |
-| 3 | [Camper Photography](https://steemit.com/busy/@alluarjun/guess) | `[C C-I P O]` | Free stock photo | 07-18 |
+| 1 | [Landscape Nature Sky Photography](https://steemit.com/photography/@hotnight/landscape-nature-sky-photography) | `[C C-I P O]` | Free stock photo | 07-18 |
+| 2 | [Nature Landscape Photography](https://steemit.com/photography/@hotnight/3o6syy-nature-landscape-photography) | `[C C-I P O]` | Free stock photo | 07-18 |
+| 3 | [Camper Photography](https://steemit.com/photography/@hotnight/camper-photography) | `[C C-I P O]` | Free stock photo | 07-18 |
 | 4 | [Hold The Phone Memes](https://steemit.com/memes/@hotnight/hold-the-phone-memes) | `[C C-I P S O]` | Meme | 07-18 |
 | 5 | [Wake Up Steemit](https://steemit.com/steemit/@hotnight/wake-up-steemit) | `[C C-I P S O]` | Meme | 07-18 |
 | 6 | [On my way Goodbye GIF](https://steemit.com/steemit/@hotnight/on-my-way-goodbye-gif) | `[C C-I P S O]` | Meme | 07-18 |
@@ -407,4 +407,3 @@ Reputation: **10** (formerly 34)
 | 8 | [Park](https://steemit.com/travel/@tanveeran/park) | `[C C-I C-C P S O]` | Photography | 08-18 |
 | 9 | [Park](https://steemit.com/travel/@tanveeran/7fsbdj-park) | `[C C-I C-C P S O]` | Photography | 08-18 |
 | 10 | [In bitcoin](https://steemit.com/inbitcoin/@tanveeran/in-bitcoin) | `[C C-I C-C P S O]` | Report: crypto | 08-18 |
-
