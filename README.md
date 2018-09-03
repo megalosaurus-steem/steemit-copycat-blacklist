@@ -26,8 +26,19 @@ Reputation: **40** (formerly 36)
 | 3 | [guess](https://steemit.com/busy/@alluarjun/guess) | `[C C-I S O]` | Meme | 07-18 |
 | 4 | [Drive](https://steemit.com/busy/@alluarjun/acjvs-drive) | `[C C-I S O]` | Meme | 07-18 |
 
+### [@alok1](https://steemit.com/@alok1)
+Reputation: **11**
+
+Notes:
+* This user has repeatedly insulted, threatened, and revenge-flagged my account as well as other users and has therefore been put on my blacklist immediately. [More information](https://steemit.com/life/@alok1/fuck-you-good-for-nothing-bastards#@megalosaurus/re-alok1-fuck-you-good-for-nothing-bastards-20180902t171727328z)
+
+| # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
+| -: | - | - | - | - |
+| 1 | [What is Ripple? Who are Ripple’s competitors?](https://steemit.com/cryptocurrency/@alok1/what-is-ripple-who-are-ripples-competitors) | `[C C-I P S O]` | Crypto trivia | 08-18 |
+| 2 | [What is blockchain? How does it work in practice? A simplified Explanation](https://steemit.com/cryptocurrency/@alok1/what-is-blockchain-how-does-it-work-in-practice-a-simplified-explanation) | `[C C-I C-RM P S O]` | Crypto trivia | 08-18 |
+
 ### [@alom23](https://steemit.com/@alom23)
-Reputation: **45** (formerly 42)
+Reputation: **46** (formerly 42)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -171,7 +182,7 @@ Reputation: **40** (formerly 38)
 | 4 | [Success](https://steemit.com/busy/@kdit/success) | `[C C-I S O]` | Quotes | 07-18 |
 
 ### [@luckys](https://steemit.com/@luckys)
-Reputation: **44** (formerly 41)
+Reputation: **47** (formerly 41)
 
 Notes:
 * This user is also committing bid bot abuse: [(1)](https://steemit.com/life/@luckys/diamond-farm).
@@ -181,6 +192,9 @@ Notes:
 | 1 | [Implementation of Vastu Shastra Can Make better life!!](https://steemit.com/life/@luckys/implementation-of-vastu-shastra-can-make-better-life) | `[C C-I C-RM P S O]` | Report | 07-18 |
 | 2 | `*` [Happy Rainy days!!](https://steemit.com/life/@luckys/happy-rainy-days) | `[C C-I P S O]` | Picture | 07-18 |
 | 3 | [Rainy heart!!](https://steemit.com/life/@luckys/rainy-heart) | `[C C-I P O]` | Picture | 08-18 |
+| 4 | [हम 130 करोड़ यूँ ही नहीं हो गये, कई "योद्धा" आखिरी सांस तक लड़े थे!](https://steemit.com/life/@luckys/130) | `[C C-I P O]` | Picture | 09-18 |
+| 5 | [Huobi is listing NCASH!!](https://steemit.com/bitcoin/@luckys/huobi-is-listing-ncash) | `[C C-I P O]` | Tweet | 09-18 |
+| 6 | [Eminem's latest album "Kamikaze" features a Bitcoin Shout-Out](https://steemit.com/bitcoin/@luckys/eminem-s-latest-album-kamikaze-features-a-bitcoin-shout-out) | `[C C-I P O]` | News snippet | 09-18 |
 
 ### [@masudurrahman](https://steemit.com/@masudurrahman)
 Reputation: **27**
@@ -195,7 +209,7 @@ Reputation: **27**
 | 6 | [Recipe: Biryani](https://steemit.com/health/@masudurrahman/2wvtng-recipe-biryani) | `[C C-I C-GT S O]` | Recipe | 06-18 |
 
 ### [@mihirbarot](https://steemit.com/@mihirbarot)
-Reputation: **33** (formerly 43)
+Reputation: **42** (formerly 43)
 
 Notes:
 * This user is also committing bid bot abuse: [(1)](https://steemit.com/india/@mihirbarot/indian-independence-day-15th-august-jai-hind).
@@ -275,7 +289,7 @@ Reputation: **31** (formerly 35)
 *More than 10 illicit posts. Other posts: [(11)](https://steemit.com/busy/@raselcom/maquiagem-com-sombra-vermelha-perca-o-medo-e-veja-como-usar-sombra-vermelha-laranja-e-dourada-maquiagem-com-sombra-vermelha), [(12)](https://steemit.com/busy/@raselcom/7-amazing-things-that-will-happen-when-you-do-plank-every-day)*
 
 ### [@rayed](https://steemit.com/@rayed)
-Reputation: **36** (formerly 27)
+Reputation: **40** (formerly 27)
 
 Notes:
 * This user has repeatedly shown lack of understanding of Steemit community rules and refused to delete illicit content: [(1)](https://steemit.com/cryptocurrency/@rayed/konios#@rayed/re-megalosaurus-re-rayed-konios-20180623t065911795z), [(2)](https://steemit.com/crytocurrency/@rayed/qurrex-first-hybrid-cryptocurrency-exchange#@rayed/re-megalosaurus-re-rayed-qurrex-first-hybrid-cryptocurrency-exchange-20180609t175023368z)
@@ -303,7 +317,7 @@ Reputation: **30** (formerly 29)
 | 3 | [Expectation & Reality 17](https://steemit.com/expectation/@rupas/expectation-and-reality-17) | `[C C-I S O]` | Meme | 06-18 |
 
 ### [@saidul-islam](https://steemit.com/@saidul-islam)
-Reputation: **40** (formerly 35)
+Reputation: **41** (formerly 35)
 
 Notes:
 * This user has been [begging for flag removal](https://steemit.com/melip/@saidul-islam/re-megalosaurus-re-saidul-islam-when-drinking-water-can-be-damaged-20180624t020601064z) [without showing any understanding of Steemit community rules](https://steemit.com/busy/@saidul-islam/re-megalosaurus-re-saidul-islam-original-bill-photography-by-me-26-6-2018-20180627t033320202z).
@@ -338,7 +352,7 @@ Reputation: **28**
 | 6 | [Picture of my friend’s bird, thought it looked fake.](https://steemit.com/photography/@salko123/picture-of-my-friend-s-bird-thought-it-looked-fake) | `[C C-I P S O]` | Reddit-Image-Post | 06-18 |
 
 ### [@saraheasy](https://steemit.com/@saraheasy)
-Reputation: **41** (formerly 39)
+Reputation: **42** (formerly 39)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -369,7 +383,7 @@ Reputation: **35**
 | 4 | [Thats most coloured forests](https://steemit.com/photography/@steem.gulraiz/thats-most-coloured-forests-2018-07-29-18-44-30) | `[C C-I T-A P S O]` | Photography | 07-18 |
 
 ### [@steem.moon](https://steemit.com/@steem.moon)
-Reputation: **45**
+Reputation: **46**
 
 Notes:
 * This user [has claimed to change his behavior in the future, but has broken his word and shown no interest in Steemit community rules](https://steemit.com/esteem/@steem.moon/yummy-chocolatees#@steem.moon/re-megalosaurus-re-steemmoon-yummy-chocolatees-20180808t074233849z).
