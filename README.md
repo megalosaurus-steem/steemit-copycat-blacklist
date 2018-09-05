@@ -192,9 +192,9 @@ Notes:
 | 1 | [Implementation of Vastu Shastra Can Make better life!!](https://steemit.com/life/@luckys/implementation-of-vastu-shastra-can-make-better-life) | `[C C-I C-RM P S O]` | Report | 07-18 |
 | 2 | `*` [Happy Rainy days!!](https://steemit.com/life/@luckys/happy-rainy-days) | `[C C-I P S O]` | Picture | 07-18 |
 | 3 | [Rainy heart!!](https://steemit.com/life/@luckys/rainy-heart) | `[C C-I P O]` | Picture | 08-18 |
-| 4 | [हम 130 करोड़ यूँ ही नहीं हो गये, कई "योद्धा" आखिरी सांस तक लड़े थे!](https://steemit.com/life/@luckys/130) | `[C C-I P O]` | Picture | 09-18 |
-| 5 | [Huobi is listing NCASH!!](https://steemit.com/bitcoin/@luckys/huobi-is-listing-ncash) | `[C C-I P O]` | Tweet | 09-18 |
-| 6 | [Eminem's latest album "Kamikaze" features a Bitcoin Shout-Out](https://steemit.com/bitcoin/@luckys/eminem-s-latest-album-kamikaze-features-a-bitcoin-shout-out) | `[C C-I P O]` | News snippet | 09-18 |
+| 4 | `*` [हम 130 करोड़ यूँ ही नहीं हो गये, कई "योद्धा" आखिरी सांस तक लड़े थे!](https://steemit.com/life/@luckys/130) | `[C C-I P O]` | Picture | 09-18 |
+| 5 | `*` [Huobi is listing NCASH!!](https://steemit.com/bitcoin/@luckys/huobi-is-listing-ncash) | `[C C-I P O]` | Tweet | 09-18 |
+| 6 | `*` [Eminem's latest album "Kamikaze" features a Bitcoin Shout-Out](https://steemit.com/bitcoin/@luckys/eminem-s-latest-album-kamikaze-features-a-bitcoin-shout-out) | `[C C-I P O]` | News snippet | 09-18 |
 
 ### [@masudurrahman](https://steemit.com/@masudurrahman)
 Reputation: **27**
