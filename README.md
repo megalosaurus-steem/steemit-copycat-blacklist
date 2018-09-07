@@ -45,6 +45,8 @@ Reputation: **46** (formerly 42)
 | 1 | [if you drink water standing, then the damage](https://steemit.com/busy/@alom23/if-you-drink-water-standing-then-the-damage) | `[C C-I C-GT S O]` | News article | 07-18 |
 | 2 | [I love Bangladesh](https://steemit.com/darthnava/@alom23/i-love-bangladesh) | `[C C-O C-I C-C S O]` | Images | 07-18 |
 | 3 | [My birds art](https://steemit.com/darthnava/@alom23/my-birds-art) | `[C C-O C-I C-I-M S O]` | Images: Clip art | 07-18 |
+| 4 | [My photography](https://steemit.com/me/@alom23/2gyp7n-my-photography) | `[C C-O O]` | Photography | 09-18 |
+| 5 | [My friends](https://steemit.com/friends/@alom23/4hkfph-my-friends) | `[C C-O O]` | Photography | 09-18 |
 
 ### [@ashir-zuhaib](https://steemit.com/@ashir-zuhaib)
 Reputation: **29**
