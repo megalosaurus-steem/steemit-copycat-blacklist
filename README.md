@@ -117,7 +117,7 @@ Reputation: **25**
 Reputation: **16** (formerly 21)
 
 Notes:
-* This user has repeatedly claimed the content he copy/paasted was his own work without being able to disprove evidence that it isn’t, and has flagged my comments: [(1)](https://steemit.com/night/@megalosaurus/re-fatima1212-re-megalosaurus-re-fatima1212-good-night-my-steemit-friend-i-also-love-photography-because-photography-is-a-name-of-art-name-of-practice-try-to-make-something-6b7f87e8af606-20180725t202337155z), [(2)](https://steemit.com/nice/@megalosaurus/re-fatima1212-re-megalosaurus-re-fatima1212-beautiful-nature-ancient-photography-45d93e774c82a-20180727t215509635z)
+* This user has repeatedly claimed the content he copy/pasted was his own work without being able to disprove evidence that it isn’t, and has flagged my comments: [(1)](https://steemit.com/night/@megalosaurus/re-fatima1212-re-megalosaurus-re-fatima1212-good-night-my-steemit-friend-i-also-love-photography-because-photography-is-a-name-of-art-name-of-practice-try-to-make-something-6b7f87e8af606-20180725t202337155z), [(2)](https://steemit.com/nice/@megalosaurus/re-fatima1212-re-megalosaurus-re-fatima1212-beautiful-nature-ancient-photography-45d93e774c82a-20180727t215509635z)
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
@@ -188,6 +188,7 @@ Reputation: **47** (formerly 41)
 
 Notes:
 * This user is also committing bid bot abuse: [(1)](https://steemit.com/life/@luckys/diamond-farm).
+* This user [has claimed to change his behavior in the future](https://steemit.com/life/@luckys/never-copy-paste-content-on-steemit), but later has broken his word and continued copy/pasting / plagiarizing / abusing.
 
 | # | Post | [Rule violations](https://steemit.com/steemitabuse/@megalosaurus/megalosaurus-steemit-original-content-rules-violations-updated-2018-07-30) | Topic | Month |
 | -: | - | - | - | - |
